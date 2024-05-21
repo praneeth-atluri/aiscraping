@@ -1,0 +1,7 @@
+/globalassets/02.-global-images/product-icons/for-dark-bkgs/opt-icononly_solution_icon_55px_dark_orchestrate.svg
+/globalassets/02.-global-images/product-icons/for-dark-bkgs/opt-icononly_solution_icon_55px_dark_experiment.svg
+/globalassets/02.-global-images/product-icons/for-dark-bkgs/opt-icononly_solution_icon_55px_dark_monetize.svg
+/globalassets/02.-global-images/product-icons/for-dark-bkgs/opt-icononly_solution_icon_55px_dark_orchestrate.svg
+/globalassets/02.-global-images/product-icons/for-dark-bkgs/opt-icononly_solution_icon_55px_dark_experiment.svg
+/globalassets/02.-global-images/product-icons/for-dark-bkgs/opt-icononly_solution_icon_55px_dark_monetize.svg
+/globalassets/02.-global-images/navigation/optimizely_symbol_full-color.svg

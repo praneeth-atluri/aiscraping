@@ -1,0 +1,481 @@
+
+
+
+
+
+Documentation | There's An AI For That
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+12,499 AIs for 15,231 tasks and 4,804 jobs.
+Powered by Vizly (Data analysis).
+
+393,991 searches today
+/
+
+
+#1 AI aggregator. Updated daily. Used by 20M+ humans.
+
+
+
+AIs For YouNew AIsTasks For You
+ 
+
+
+YouTube
+Submit AI
+School
+Companionship
+SEO
+Summaries
+Chatbots
+Music
+Funny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Just Launched
+
+
+
+
+
+Requests
+
+
+
+Tasks
+
+
+
+
+
+Timeline
+
+
+
+
+
+Submit / Advertise
+
+
+
+
+
+Job Impact Index
+
+
+
+
+
+
+Community
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+My Profile
+My Saved AIs
+Dashboard
+Settings
+Logout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+Documentation
+
+Editorial guidelines
+We exclusively list AI tools. This refers to new apps that were built from the ground up on top of AI models. We also list major new AI features from popular consumer apps.
+We reserve the right to reject submissions that we believe are low quality, deceiving or dangerous to our users.
+We do not accept AI newsletters, aggregators, blogs, etc.
+
+
+Impact of AI on jobs
+The Impact score is expressed as a percentage where 0% indicates that AI has no impact on that job and 100% indicates that the job can theoretically be fully automated with the help of AI based on current capabilities (this does not necessarily mean that the job will cease to exist).
+How the Impact score is calculated
+The Impact score is calculated based on the tasks that can be performed with AI, the relevancy of those tasks for a specific job, the AI impact score of each task, the number of AIs available for each task and the capabilities of each individual AI within each task. The final score is calculated with the help of AI.
+
+
+Timeline of AI
+The Timeline provides a visual overview of the evolution of AI capabilities. The date of each task corresponds to the launch date of the first AI tool dedicated to that task.
+
+
+
+
+About
+My name is Andrei and I'm an indie developer. If you liked this, please consider sharing it and for more cool things like this follow me on Twitter.
+
+
+
+
+
+
+Home
+
+
+
+
+
+Search
+
+
+
+
+My saved AIs
+
+
+
+Free signup
+
+
+
+
+
+
+Just Launched
+
+
+
+
+
+Featured
+
+
+
+
+
+Requests
+
+
+
+Tasks
+
+
+
+
+
+Timeline
+
+
+
+
+
+Job Impact Index
+
+
+
+
+
+
+
+Forum
+
+
+
+
+
+Newsletter
+
+
+
+
+
+Submit / Advertise
+
+
+
+My Saved AIs
+Builder dashboard
+Settings
+Logout
+
+
+
+
+
+
+My Profile
+
+
+
+
+
+
+
+
+
+
+
+
+There’s An AI For That SRL5 HalelorBucharest 030118Romania
+Submit new AI
+
+
+
+AI Tools
+Promote AI
+Highlight AI
+Request an update
+Most Saved
+Influencers
+Manage ads
+
+
+Company
+Documentation
+Affiliate program
+Sponsor us
+We're hiring
+
+
+About
+About us
+Terms
+Privacy
+Contact us
+Newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+© 2024 There's An AI For That. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join the biggest AI community
+
+Subscribe to our exclusive newsletter, coming out 3 times per week with the latest AI tools. Join over 470,000 readers.
+
+
+
+Join the newsletter
+
+
+
+
+
+
+Help
+
+⌘ + D bookmark this site for future reference
+⌘ + ↑/↓ go to top/bottom
+⌘ + ←/→ sort chronologically/alphabetically
+↑↓←→ navigation
+Enter open selected entry in new tab
+⇧ + Enter open selected entry in new tab
+⇧ + ↑/↓ expand/collapse list
+/ focus search
+Esc remove focus from search
+A-Z go to letter (when A-Z sorting is enabled)
++ submit an entry
+? toggle help menu
+
+✕
+
+
+
+
+
+
+
+
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on WhatsApp
+Copy link
+
+
+Sign in to continue (100% free)
+To prevent spam, some actions require being signed in. It's free and takes a few seconds.
+
+
+Sign in with Google
+
+By continuing, you agree to our Terms and Privacy.
+
+
+✕
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 AIs selected
+
+Clear selection
+
+View list
+
+
+
+#
+Name
+
+
+Task
+
+
+
+
+
+
+Choose listing type:
+
+Free toolFree
+Tools that are either completely free or open source.
+
+
+Paid tool$20
+Paid or freemium tools, or tools that are part of a larger paid suite.
+
+
+
+
+
+
+
+
+

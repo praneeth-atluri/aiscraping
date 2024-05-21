@@ -1,0 +1,15 @@
+https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png
+https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png
+https://www.gstatic.com/identity/boq/policies/privacy/tos_main_illustration.svg
+https://www.gstatic.com/identity/boq/policies/privacy/your_relationship_illustration.svg
+https://www.gstatic.com/identity/boq/policies/privacy/provide_services_illustration.svg
+https://www.gstatic.com/identity/boq/policies/privacy/improve_services_illustration.svg
+https://www.gstatic.com/identity/boq/policies/privacy/ssat_illustration.svg
+https://www.gstatic.com/identity/boq/policies/privacy/respect_others_illustration.svg
+https://www.gstatic.com/identity/boq/policies/privacy/permission_to_use_illustration.svg
+https://www.gstatic.com/identity/boq/policies/privacy/using_services_illustration.svg
+https://www.gstatic.com/identity/boq/policies/privacy/content_in_services_illustration.svg
+https://www.gstatic.com/identity/boq/policies/privacy/software_in_services_illustration.svg
+https://www.gstatic.com/identity/boq/policies/privacy/disagreements_illustration.svg
+https://www.gstatic.com/identity/boq/policies/privacy/about_these_terms_illustration.svg
+https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg

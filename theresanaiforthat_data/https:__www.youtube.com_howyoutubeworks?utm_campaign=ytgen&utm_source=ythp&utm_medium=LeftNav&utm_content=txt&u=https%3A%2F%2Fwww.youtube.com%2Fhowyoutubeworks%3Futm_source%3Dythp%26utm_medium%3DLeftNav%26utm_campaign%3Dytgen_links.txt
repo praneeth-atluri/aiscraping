@@ -1,0 +1,184 @@
+/intl/ALL_in/howyoutubeworks/
+#content
+/intl/ALL_in/howyoutubeworks/our-commitments/managing-harmful-content/
+/intl/ALL_in/howyoutubeworks/our-commitments/standing-up-to-hate/
+/intl/ALL_in/howyoutubeworks/our-commitments/fighting-misinformation/
+/intl/ALL_in/howyoutubeworks/our-commitments/curbing-extremist-content/
+/intl/ALL_in/howyoutubeworks/our-commitments/supporting-political-integrity/
+https://research.youtube
+/intl/ALL_in/howyoutubeworks/our-commitments/preventing-bias/
+/intl/ALL_in/howyoutubeworks/our-commitments/youth-principles/
+/intl/ALL_in/howyoutubeworks/our-commitments/fostering-child-safety/
+/intl/ALL_in/howyoutubeworks/our-commitments/protecting-user-data/
+/intl/ALL_in/howyoutubeworks/our-commitments/safeguarding-copyright/
+/intl/ALL_in/howyoutubeworks/our-commitments/sharing-revenue/
+/intl/ALL_in/howyoutubeworks/our-commitments/promoting-digital-wellbeing/
+/intl/ALL_in/howyoutubeworks/our-commitments/responsible-ai/
+/intl/ALL_in/howyoutubeworks/product-features/search/
+/intl/ALL_in/howyoutubeworks/product-features/recommendations/
+/intl/ALL_in/howyoutubeworks/product-features/news-information/
+/intl/ALL_in/howyoutubeworks/product-features/health-information/
+/intl/ALL_in/howyoutubeworks/product-features/monetization/
+/intl/ALL_in/howyoutubeworks/product-features/live/
+/intl/ALL_in/howyoutubeworks/user-settings/privacy/
+/intl/ALL_in/howyoutubeworks/user-settings/ad-settings/
+/intl/ALL_in/howyoutubeworks/user-settings/parental-controls/
+/intl/ALL_in/howyoutubeworks/user-settings/autoplay/
+/intl/ALL_in/howyoutubeworks/policies/overview/
+/intl/ALL_in/howyoutubeworks/policies/community-guidelines/
+/intl/ALL_in/howyoutubeworks/policies/copyright/
+/intl/ALL_in/howyoutubeworks/policies/monetization-policies/
+/intl/ALL_in/howyoutubeworks/policies/legal-removals/
+/intl/ALL_in/howyoutubeworks/progress-impact/responsibility/
+/intl/ALL_in/howyoutubeworks/progress-impact/impact/
+/intl/ALL_in/howyoutubeworks/progress-impact/trends/
+/intl/ALL_in/howyoutubeworks/resources/downloadable-summaries/
+/intl/ALL_in/howyoutubeworks/resources/brand-resources/
+
+  /intl/ALL_in/howyoutubeworks/our-commitments/managing-harmful-content/
+
+  /intl/ALL_in/howyoutubeworks/our-commitments/curbing-extremist-content/
+
+  /intl/ALL_in/howyoutubeworks/our-commitments/fostering-child-safety/
+
+  /intl/ALL_in/howyoutubeworks/our-commitments/preventing-bias/
+
+  /intl/ALL_in/howyoutubeworks/our-commitments/standing-up-to-hate/
+
+  /intl/ALL_in/howyoutubeworks/our-commitments/sharing-revenue/
+
+  /intl/ALL_in/howyoutubeworks/our-commitments/fighting-misinformation/
+
+  /intl/ALL_in/howyoutubeworks/our-commitments/supporting-political-integrity/
+
+  /intl/ALL_in/howyoutubeworks/our-commitments/protecting-user-data/
+
+  /intl/ALL_in/howyoutubeworks/our-commitments/safeguarding-copyright/
+
+  /intl/ALL_in/howyoutubeworks/our-commitments/promoting-digital-wellbeing/
+
+  /intl/ALL_in/howyoutubeworks/product-features/search/
+
+  /intl/ALL_in/howyoutubeworks/product-features/recommendations/
+
+  /intl/ALL_in/howyoutubeworks/product-features/news-information/
+
+  /intl/ALL_in/howyoutubeworks/product-features/monetization/
+
+  /intl/ALL_in/howyoutubeworks/product-features/live/
+
+  /intl/ALL_in/howyoutubeworks/user-settings/privacy/
+
+  /intl/ALL_in/howyoutubeworks/user-settings/ad-settings/
+
+  /intl/ALL_in/howyoutubeworks/user-settings/parental-controls/
+
+  /intl/ALL_in/howyoutubeworks/user-settings/autoplay/
+
+  /intl/ALL_in/howyoutubeworks/policies/overview/
+
+  /intl/ALL_in/howyoutubeworks/policies/community-guidelines/
+
+  /intl/ALL_in/howyoutubeworks/policies/copyright/
+
+  /intl/ALL_in/howyoutubeworks/policies/monetization-policies/
+
+  /intl/ALL_in/howyoutubeworks/policies/legal-removals/
+
+  /intl/ALL_in/howyoutubeworks/product-features/search/
+
+  /intl/ALL_in/howyoutubeworks/product-features/recommendations/
+
+  /intl/ALL_in/howyoutubeworks/product-features/news-information/
+
+  /intl/ALL_in/howyoutubeworks/product-features/monetization/
+
+  /intl/ALL_in/howyoutubeworks/product-features/live/
+
+  /intl/ALL_in/howyoutubeworks/user-settings/privacy/
+
+  /intl/ALL_in/howyoutubeworks/user-settings/ad-settings/
+
+  /intl/ALL_in/howyoutubeworks/user-settings/parental-controls/
+
+  /intl/ALL_in/howyoutubeworks/user-settings/autoplay/
+
+  /intl/ALL_in/howyoutubeworks/policies/overview/
+
+  /intl/ALL_in/howyoutubeworks/policies/community-guidelines/
+
+  /intl/ALL_in/howyoutubeworks/policies/copyright/
+
+  /intl/ALL_in/howyoutubeworks/policies/monetization-policies/
+
+  /intl/ALL_in/howyoutubeworks/policies/legal-removals/
+
+  /intl/ALL_in/howyoutubeworks/progress-impact/responsibility/
+
+  /intl/ALL_in/howyoutubeworks/progress-impact/impact/
+
+  /intl/ALL_in/howyoutubeworks/progress-impact/trends/
+https://twitter.com/YouTube
+https://www.instagram.com/youtube/
+https://www.facebook.com/youtube/?ref=br_r
+https://www.youtube.com/about/
+https://blog.youtube/
+https://www.youtube.com/howyoutubeworks/
+https://www.youtube.com/jobs/
+https://blog.youtube/press/
+https://www.youtube.com/trends/
+https://tv.youtube.com/learn/nflsundayticket
+https://www.youtube.com/kids/
+https://www.youtube.com/musicpremium
+https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ
+https://www.youtube.com/creators/podcasts/
+https://www.youtube.com/premium/
+https://www.youtube.com/ads/youtube-select/
+https://studio.youtube.com/
+https://tv.youtube.com/
+https://developers.google.com/youtube
+https://www.youtube.com/ads/
+https://www.youtube.com/yt/family/
+https://www.youtube.com/creatorresearch/
+https://servicesdirectory.withyoutube.com/
+https://artists.youtube.com/
+https://www.youtube.com/creators/
+https://www.youtube.com/nextup/
+https://vr.youtube.com/
+https://www.youtube.com/creators-for-change/
+https://www.youtube.com/csai-match/
+https://socialimpact.youtube.com/
+https://www.youtube.com/about/
+https://blog.youtube/
+https://www.youtube.com/howyoutubeworks/
+https://www.youtube.com/jobs/
+https://blog.youtube/press/
+https://www.youtube.com/trends/
+https://tv.youtube.com/learn/nflsundayticket
+https://www.youtube.com/kids/
+https://www.youtube.com/musicpremium
+https://www.youtube.com/channel/UCqVDpXKLmKeBU_yyt_QkItQ
+https://www.youtube.com/creators/podcasts/
+https://www.youtube.com/premium/
+https://www.youtube.com/ads/youtube-select/
+https://studio.youtube.com/
+https://tv.youtube.com/
+https://developers.google.com/youtube
+https://www.youtube.com/ads/
+https://www.youtube.com/yt/family/
+https://www.youtube.com/creatorresearch/
+https://servicesdirectory.withyoutube.com/
+https://artists.youtube.com/
+https://www.youtube.com/creators/
+https://www.youtube.com/nextup/
+https://vr.youtube.com/
+https://www.youtube.com/creators-for-change/
+https://www.youtube.com/csai-match/
+https://socialimpact.youtube.com/
+https://www.youtube.com
+https://www.youtube.com/about/policies/
+https://www.youtube.com/about/copyright/
+https://www.youtube.com/about/brand-resources/
+https://www.google.com/policies/privacy/
+https://www.youtube.com/t/terms
+https://support.google.com/youtube/#topic=9257498

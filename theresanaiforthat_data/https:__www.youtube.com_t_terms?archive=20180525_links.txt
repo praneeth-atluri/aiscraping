@@ -1,0 +1,15 @@
+/
+/t/terms_paidservice
+/t/usage_paycontent
+/t/policy_cns
+/t/copyright_notice
+/t/community_guidelines
+https://www.youtube.com/t/privacy
+https://www.youtube.com/t/community_guidelines
+https://www.youtube.com/t/terms
+https://support.google.com/youtube/answer/71011
+https://www.youtube.com/t/community_guidelines
+https://www.youtube.com/t/terms_dataprocessing
+https://support.google.com/youtube/?p=data_applicability
+https://www.youtube.com/t/copyright_notice
+https://www.youtube.com/t/privacy

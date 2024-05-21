@@ -1,0 +1,983 @@
+
+
+
+
+
+
+
+Webflow Wishlist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wishlist
+
+
+Courses
+Guides
+Forum
+Contact
+
+
+More
+
+
+
+API Docs
+Glossary
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a new idea
+
+
+
+
+
+
+            Filter by status
+          
+
+
+
+    Reviewed
+
+    
+        1324
+    
+
+
+
+
+    Planned
+
+    
+        11
+    
+
+
+
+
+    In progress
+
+    
+        10
+    
+
+
+
+
+    In beta
+
+    
+        0
+    
+
+
+
+
+    Shipped
+
+    
+        200
+    
+
+
+
+
+    Already exists
+
+    
+        102
+    
+
+
+
+
+
+
+            Filter by category
+          
+
+
+
+      Accessibility
+
+      
+×
+54
+
+
+
+
+
+
+      Accounts & Billing
+
+      
+×
+113
+
+
+
+
+
+
+
+      CMS
+
+      
+×
+673
+
+
+
+
+
+
+      Collection Settings
+
+      
+×
+43
+
+
+
+
+
+
+      Data Management
+
+      
+×
+95
+
+
+
+
+
+
+      Editor
+
+      
+×
+155
+
+
+
+
+
+
+
+
+      Dashboard
+
+      
+×
+93
+
+
+
+
+
+
+
+      Designer
+
+      
+×
+1413
+
+
+
+
+
+
+      Assets
+
+      
+×
+105
+
+
+
+
+
+
+      Elements
+
+      
+×
+335
+
+
+
+
+
+
+      Interactions
+
+      
+×
+161
+
+
+
+
+
+
+      Layout & Styles
+
+      
+×
+281
+
+
+
+
+
+
+      Site Export
+
+      
+×
+50
+
+
+
+
+
+
+
+
+      Ecommerce
+
+      
+×
+395
+
+
+
+
+
+
+      Forms
+
+      
+×
+90
+
+
+
+
+
+
+      Hosting
+
+      
+×
+121
+
+
+
+
+
+
+      Localization
+
+      
+×
+25
+
+
+
+
+
+
+      Logic
+
+      
+×
+12
+
+
+
+
+
+
+
+      Other
+
+      
+×
+412
+
+
+
+
+
+
+      Client Billing (phased out)
+
+      
+×
+28
+
+
+
+
+
+
+      Integrations
+
+      
+×
+139
+
+
+
+
+
+
+
+
+
+      Users
+
+      
+×
+66
+
+
+
+
+
+
+      Access Groups
+
+      
+×
+8
+
+
+
+
+
+
+      Memberships
+
+      
+×
+24
+
+
+
+
+
+
+      User Accounts
+
+      
+×
+19
+
+
+
+
+
+
+
+
+
+      Webflow APIs
+
+      
+×
+43
+
+
+
+
+
+
+      Data APIs
+
+      
+×
+36
+
+
+
+
+
+
+      Designer APIs
+
+      
+×
+2
+
+
+
+
+
+
+
+
+
+Log in / Sign up
+
+
+
+
+
+
+
+Recent
+
+
+Trending
+
+
+Popular
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          3,154
+        
+
+          Vote
+        
+ 
+
+
+
+
+        European Hosting to comply with GDPR
+        
+
+      
+
+          I have several clients in Europe (germany and switzerland) and I love Webflow, but they are all very concerned with data privacy and complying to GDPR. Especially now with the current privacy shield solutions. Please, please work on an European ho...
+      
+
+
+
+
+
+
+            Created 21 Oct 11:35
+              by Jana 
+          
+
+            Hosting
+          
+
+
+
+          147
+        
+Reviewed
+
+
+
+
+
+
+
+
+
+
+
+          4
+        
+
+          Vote
+        
+ 
+
+
+
+
+        Best Practices for Storing Sensitive Data: Securing API Tokens in .env Files
+        
+
+      
+
+          I need to directly hide my external API token data without third party integration, but there doesn't seem to be a solution. Therefore, I need to store my sensitive data in a secure file, such as a .env file.
+      
+
+
+
+
+
+
+            Created 09 May 09:12
+              by Pavan Vasoya
+          
+
+            Data APIs
+          
+
+
+
+          0
+        
+
+
+
+
+
+
+
+
+
+
+
+          5,052
+        
+
+          Vote
+        
+ 
+
+
+
+
+        Webflow Desktop / Offline Application
+        
+
+      
+
+          Create a desktop/offline version of Webflow, to be used when traveling or with bad internet connections.
+      
+
+
+
+
+
+
+            Created 16 Dec 21:13
+              by Kyle Kilat
+          
+
+            Designer  /  Other
+          
+
+
+
+          112
+        
+Reviewed
+
+
+
+
+
+
+
+
+
+
+
+          4,144
+        
+
+          Vote
+        
+ 
+
+
+
+
+        Real-time filtering/sorting on website (Faceted navigation)
+        
+
+      
+
+          It would be great to be able to easily create a robust portfolio, with real-time filters. For example, if you are a photographer, then an image gallery with filter categories such as landscape, portraits, street photography, etc... Upon clicking o...
+      
+
+
+
+
+
+
+            Created 18 Jan 01:26
+              by Ruben Nunez
+          
+
+            Elements  /  Other
+          
+
+
+
+          162
+        
+Reviewed
+
+
+
+
+
+
+
+
+
+
+
+          3,710
+        
+
+          Vote
+        
+ 
+
+
+
+
+        CMS Slider
+        
+
+      
+
+          It would be awesome to have a dynamic slider component with the ability to filter the number of slides, ordering them, etc.
+      
+
+
+
+
+
+
+            Created 18 Jan 09:49
+              by Matthieu Layes
+          
+
+            CMS
+          
+
+
+
+          222
+        
+Reviewed
+
+
+
+
+
+
+
+
+
+
+
+          2,764
+        
+
+          Vote
+        
+ 
+
+
+
+
+        Ability to style CSS Combinators: combo classes, pseudo classes, nested classes
+        
+
+      
+
+          When I add a css class and then add another css class on top of it, the resulting css rule in the code is a compound rule. Most of the time this is fine, but there are times I need the two rules to be separate. Please expand on the css layering, b...
+      
+
+
+
+
+
+
+            Created 20 Sep 18:34
+              by Brendan Keyworth
+          
+
+            Layout & Styles
+          
+
+
+
+          66
+        
+
+
+
+
+
+
+
+
+
+
+
+          1
+        
+
+          Vote
+        
+ 
+
+
+
+
+        Custom note/message in order fulfillment email
+        
+
+      
+
+          I'd like to be able to add a note to the customer inside the fulfillment email. Being able to say "thanks" would be a nice personal touch, but I sometimes want to include other info about shipping. And some orders use two tracking numbers.
+      
+
+
+
+
+
+
+            Created 10 May 16:46
+              by Colby Nordberg
+          
+
+            Ecommerce
+          
+
+
+
+          0
+        
+
+
+
+
+
+
+
+
+
+
+
+          1,511
+        
+
+          Vote
+        
+ 
+
+
+
+
+        Setting Up Google AMP (Accelerated Mobile Pages) Framework with Webflow Site.
+        
+
+      
+
+          It is clear that majority of traffic websites receive come from mobile. According to Neil Patel, an SEO Digital Marketer, 58% of Google searches now happen on mobile. Websites today are not simply about great design, rather, it is about how much t...
+      
+
+
+
+
+
+
+            Created 27 Feb 18:36
+              by Luqman Shah
+          
+
+            Integrations
+          
+
+
+
+          28
+        
+
+
+
+
+
+
+
+
+
+
+
+          1,127
+        
+
+          Vote
+        
+ 
+
+
+
+
+        Increase Number of Nested Collection Lists Per Page
+        
+
+      
+
+          Currently, only one Collection List can be nested per page - would be great to increase this limit. Thanks!
+      
+
+
+
+
+
+
+            Created 02 Jul 00:51
+              by Craig Brideson
+          
+
+            CMS
+          
+
+
+
+          96
+        
+Reviewed
+
+
+
+
+
+
+
+
+
+
+
+          3
+        
+
+          Vote
+        
+ 
+
+
+
+
+        Select multiple elements then 'Shift A' to Flex box container
+        
+
+      
+
+          As a common and repetitive shortcut in Figma, it would be amazing to select multiple elements on the Webflow canvas and hit 'Shift A' to group them into a Flex box (auto layout) container. This would then also allow us to update the display layout...
+      
+
+
+
+
+
+
+            Created 07 May 06:08
+              by Benjamin Anthonisz
+          
+
+            Designer
+          
+
+
+
+          0
+        
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+…
+
+
+Next ›
+
+
+Last »
+
+
+
+
+
+
+
+© 2024, Webflow, Inc. All Rights Reserved.
+|
+Webflow Home
+|
+Webflow University
+
+
+
+
+
+

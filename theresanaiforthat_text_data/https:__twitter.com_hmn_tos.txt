@@ -1,0 +1,1642 @@
+
+
+
+
+
+ Cov Nqe Lus txog Qhov Kev Pab Cuam ntawm X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+                  Cov Nqe Lus txog Qhov Kev Pab Cuam
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Cov Nqe Lus txog Qhov Kev Pab Cuam
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pib siv tau: Lub Cuaj Hlis Ntuj Tim 29, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Lub ntsiab ntawm peb Cov Nqe Lus
+        
+
+
+
+
+
+
+Cov Nqe Lus txog Qhov Kev Pab Cuam no (“Cov Nqe Lus”) yog ib feem ntawm Daim Ntawv Pom Zoo Rau Tus Neeg Siv– uas yog daim ntawv cog lus raug cai uas tswj hwm koj txoj kev siv X. Koj yuav tsum nyeem cov Ntsiab Lus txog Qhov Kev Pab Cuam (“Cov Nqe Lus”) kom tag nrho, tab sis ntawm no yog qee yam tseem ceeb uas koj yuav tsum nqa mus:
+
+Koj yuav pom kev tshaj tawm ntawm lub platform: Hauv kev sib pauv rau kev nkag mus tau rau Cov Kev Pab Cuam, X thiab peb cov neeg muab kev pab cuam thib peb thiab cov neeg koom tes tuaj yeem tso tawm qhov kev tshaj tawm rau koj.
+
+
+
+Thaum tshaj tawm Cov Ntsiab Lus thiab lwm yam siv Cov Kev Pab Cuam, koj yuav tsum ua raws li Daim Ntawv Pom Zoo Rau Tus Neeg Siv thiab Txoj Cai Lij Choj Siv: Koj yog lub luag hauj lwm rau koj qhov kev siv Cov Kev Pab Cuam thiab koj Cov Ntsiab Lus. Koj yuav tsum ua raws li Daim Ntawv Pom Zoo Rau Tus Neeg Siv no, nws txoj cai uas koom nrog, thiab tag nrho cov kev cai lij choj siv tau.
+
+
+
+Koj yuav tsum ua raws li cov ntsiab lus siv uas lees txais tau ntawm Cov Kev Pab Cuam: Koj tsis tuaj yeem nkag mus tau rau Cov Kev Pab Cuam hauv lwm txoj hauv kev uas tsis yog kev tshaj tawm saum qhov chaw ywj pheej (interface) los ntawm qhov uas muaj tam sim no, uas peb muab kev pab cuam. Piv txwv li, qhov no txhais tau hais tias koj tsis tuaj yeem rhuav tshem Cov Kev Pab Cuam, sim ua hauj lwm nyob ib puag ncig cov kev txwv uas peb tsim, los sis sim ua kom cuam tshuam rau kev ua hauj lwm ntawm Cov Kev Pab Cuam. 
+
+
+
+Peb muaj txoj cai lij choj tswj siv ua ncua dav: X muaj txoj cai los ua kev tswj hwm rau koj yog tias koj ua txhaum rau cov ntsiab lus no, xws li, qhov kev piv txwv li, kev tshem tawm koj Cov Nqe Lus, txwv tsis pub pom, txiav koj txoj kev nkag mus tau rau X, los sis ua raws li txoj cai lij choj. Peb kuj tseem tuaj yeem ncua los sis txiav koj tus as khauj tawm rau lwm yam laj thawj, xws li kev tsis ua hauj lwm ntev, kev pheej hmoo txog kev nthuav tawm raug cai, los sis tsis tuaj yeem ua neej nyob rau fab kev lag luam tau. 
+
+
+
+Muaj Cov Ntawv Tso Cai Khoom Cuab Yeej Cuab Tam Hauv Cov Nqe Lus no: Koj tseem yog cov tswv cuab thiab cov cai rau ib qho ntawm koj Cov Ntsiab Lus uas koj tshaj tawm los sis qhia tawm, thiab koj muab rau peb nrog daim ntawv tso cai feem dav, tsis muaj nuj nqis los ua kom koj Cov Ntsiab Lus muaj nyob rau lwm lub ntiaj teb thiab cia lwm tus ua ib yam nkaus. Hloov txoj kev tig rov qab, peb muab daim ntawv tso cai siv software rau koj uas peb muab los ua ib feem ntawm Cov Kev Pab Cuam, xws li lub app X ntawm xov tooj ntawm tes, txhawm rau lub hom phiaj ntawm kev ua kom koj siv thiab txaus siab rau cov txiaj ntsig ntawm Cov Kev Pab Cuam. 
+
+
+
+Koj qhov kev siv Cov Kev Pab Cuam yog nyob ntawm koj tus kheej qhov kev pheej hmoo: Peb muab Cov Kev Pab Cuam raws li "RAWS LI QHOV YOG" thiab "RAWS LI QHOV MUAJ", thiab peb tsis lees paub txhua qhov kev lav, lub luag hauj lwm, thiab kev lav ris rau koj los sis lwm tus raws li thaj tsam uas txoj lij choj tso cai. Tej zaum koj yuav tau txais kev cuam tshuam rau cov ntsiab lus uas tsis txaus siab los sis tsim kev puas tsuaj los ntawm lwm tus neeg siv. Cov Kev Pab Cuam tuaj yeem hloov pauv rau qee lub sij hawm, thiab peb tuaj yeem txwv los sis txiav tawm cov kev pab cuam los sis cov yam ntxwv tshwj xeeb rau koj los sis lwm tus neeg siv txhua lub sij hawm. 
+
+
+
+Koj muaj cov txheej txheem rau kev daws teeb meem thiab kev them nyiaj, tab sis peb lub luag hauj lwm muaj kev txwv: Koj muaj cai tshem tawm qhov kev pom zoo no txhua lub sij hawm los ntawm kev ua kom koj tus as khauj tsis ua hauj lwm thiab txiav kev siv cov Kev Pab Cuam. Nco ntsoov tias peb yuav tsis lav rau qee yam kev puas tsuaj raws li tau piav qhia hauv daim ntawv cog lus, thiab nyob rau hauv ib qho xwm txheej, peb qhov kev lav ris tag nrho yuav tsum tsis pub tshaj $100 USD los sis tus nqi uas koj tau them rau peb, yog tias muaj, hauv rau lub hlis dhau los rau Cov Kev Pab Cuam ua rau muaj kev thov rov qab. Tsis tas li ntawd, yog tias koj ntseeg tias koj Cov Ntsiab Lus tau muab theej tawm hauv txoj hauv kev uas suav tias yog muaj kev ua txhaum cai lij choj, cov txheej txheem tshaj tawm tau qhia meej hauv Cov Nqe Lus no. 
+
+
+Thov nco ntsoov tias Cov Nqe Lus no suav nrog peb Tsab Cai Hais Txog Kev Ceev Ntia gTug (https://x.com/privacy) nrog rau lwm cov nqe lus siv rau koj qhov kev siv Cov Kev Pab Cuam thiab koj Cov Ntsiab Lus. Thaum kawg, cov nqe lus no yuav txawv nyob ntawm seb koj nyob qhov twg, tab sis nyob rau hauv txhua qhov xwm txheej, koj yuav tsum muaj hnub nyoog yam tsawg kawg yog 13 xyoo uas tuaj yeem siv X tau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yog tias koj nyob sab nraud Lub Koom Haum  European Union, Cov Xeev Ntawm EFTA, los sis Teb Chaws As Kiv, suav nrog yog tias koj nyob hauv Teb Chaws Mes Kas, Daim Ntawv Pom Zoo Rau Tus Neeg Siv X nrog rau Cov Nqe Lus txog Qhov Kev Pab Cuamno , peb Tsab Cai Hais Txog Kev Ceev Ntiag Tug, peb Cov Kev Cai thiab Cov Cai, cov cai uas sib koom ua ke tag nrho.
+Yog tias koj nyob sab hauv Lub Koom Haum  European Union, Cov Xeev Ntawm EFTA, los sis Teb Chaws As Kiv, Daim Ntawv Pom Zoo Rau Tus Neeg Siv X nrog rau Cov Nqe Lus txog Qhov Kev Pab Cuamno , peb Tsab Cai Hais Txog Kev Ceev Ntiag Tug, peb Cov Kev Cai thiab Cov Cai, cov cai uas sib koom ua ke tag nrho.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Cov Nqe Lus txog Qhov Kev Pab Cuam ntawm X
+Yog tias koj nyob sab nraud Lub Koom Haum European Union, Cov Xeev Ntawm EFTA, los sis Teb Chaws As Kiv, suav nrog yog tias koj nyob hauv Teb Chaws Mes Kas
+Cov Nqe Lus txog Qhov Kev Pab Cuam no ("Cov Nqe Lus") tswj hwm koj txoj kev nkag mus tau rau thiab siv peb cov kev pab cuam, suav nrog peb ntau lub vev xaib, SMS, APIs, kev ceeb toom hauv email, daim ntawv thov, cov pob nyem, widgets, xov xwm tshaj tawm, kev pab cuam fab kev lag luam, thiab peblwm cov kev pab cuam uas tau txais kev duav roos (https://help.x.com/rules-and-policies/x-services-and-corporate-affiliates) uas txuas mus rau Cov Nqe Lus no (hu ua ke tias, "Cov Kev Pab Cuam"), thiab txhua cov ntaub ntawv, ntawv nyeem, cov txuas, duab, duab, suab, cov vis dis aus, los sis lwm yam ntaub ntawv los sis kev npaj ntawm cov ntaub ntawv uas rub nkag, rub tawm los sis tshwm sim ntawm Cov Kev Pab Cuam (hu ua ke tias " Cov Ntsiab Lus”). Los ntawm kev siv Cov Kev Pab Cuam uas koj pom zoo ua raws li Cov Nqe Lus no.
+Cov Nqe Lus no yog kev pom zoo ntawm koj thiab X Corp., uas muab X thiab Cov Kev Pab Cuam, 1355 Market Street, Suite 900, San Francisco, CA 94103 U.S.A.Cov lus “peb,” “peb,” thiab “peb li” txhais tias X Corp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                1. Leej Twg Thiaj Tuaj Yeem Siv Cov Kev Pab Cuam
+              
+
+
+
+                2. Kev Ceev Ntaig Tug
+              
+
+
+
+                3. Cov ntsiab lus ntawm Cov Kev Pab Cuam
+              
+
+
+
+                4. Kev Siv Cov Kev Pab Cuam
+              
+
+
+
+                5. Kev Tsis Kam Lees Qhov Kev Lav Ris thiab Qhov Kev Txwv Rau Kev Lav
+              
+
+
+
+                6. Feem Dav
+              
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                        1. Leej Twg Thiaj Tuaj Yeem Siv Cov Kev Pab Cuam
+                    
+
+
+
+                        2. Kev Ceev Ntaig Tug
+                    
+
+
+
+                        3. Cov ntsiab lus ntawm Cov Kev Pab Cuam
+                    
+
+
+
+                        4. Kev Siv Cov Kev Pab Cuam
+                    
+
+
+
+                        5. Kev Tsis Kam Lees Qhov Kev Lav Ris thiab Qhov Kev Txwv Rau Kev Lav
+                    
+
+
+
+                        6. Feem Dav
+                    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          1. Leej Twg Thiaj Tuaj Yeem Siv Cov Kev Pab Cuam
+        
+
+
+
+
+
+
+
+
+
+Koj tuaj yeem siv Cov Kev Pab Cuam nkaus xwb yog tias koj pom zoo tsim daim ntawv cog lus nrog peb thiab tsis yog ib tus neeg raug txwv tsis pub txais kev pab cuam raws li txoj cai lij choj ntawm lub chaw txiav txim plaub ntug uas ntsig txog. Txawm li cas los xij, koj yuav tsum muaj hnub nyoog tsawg kawg yog 13 xyoos los siv Cov Kev Pab Cuam. Yog tias koj lees txais Cov Nqe Lus no thiab kev siv Cov Kev Pab Cuam sawv cev rau lub tuam txhab, lub koom haum, tsoom fwv, los sis lwm qhov chaw raug cai, koj sawv cev thiab lees paub tias koj tau tso cai kom ua li ntawd thiab muaj txoj cai los khi cov koom haum no rau Cov Nqe Lus no, uas qhov xwm txheej cov lus "koj" thiab "koj li" raws li siv nyob rau hauv Cov Nqe Lus no yuav tsum xa mus rau qhov chaw ntawd.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          2. Kev Ceev Ntaig Tug
+        
+
+
+
+
+
+
+
+
+
+Peb Tsab Cai Hais Txog Kev Ceev Ntiag Tug (https://www.x.com/privacy) piav qhia txo hauv kev uas peb tswj tau cov ntaub ntawv koj muab rau peb thaum koj siv Cov Kev Pab Cuam. Koj nkag siab tias dhau ntawm koj qhov kev siv Cov Kev Pab Cuam koj tso cai rau kev suav sau thiab siv (raws li tau teev tseg hauv Tsab Cais Hais Txog Kev Ceev Ntiag Tug) ntawm cov ntaub ntawv no, suav nrog kev xa cov ntaub ntawv no mus rau Teb Chaws Mes Kas, Ireland, thiab/los sis lwm lub teb chaws rau kev khaws cia, ua thiab siv los ntawm peb thiab peb cov tuam thab koom tes.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          3. Cov ntsiab lus ntawm Cov Kev Pab Cuam
+        
+
+
+
+
+
+
+
+
+
+Koj muaj lub luag hauj lwm rau koj kev siv Cov Kev Pab Cuam thiab rau txhua Cov Ntsiab Lus uas koj muab, suav nrog kev ua raws li kev cai lij choj, cov cai, thiab cov cai uas tswj siv tau. Koj tsuas yog yuav tsum muab Cov Ntsiab Lus uas koj nyiam sib koom nrog lwm tus.
+
+Kev siv los sis kev tso siab rau cov ntsiab lus los sis cov ntaub ntawv tshaj tawm los ntawm Cov Kev Pab Cuam los sis tau txais los ntawm koj los ntawm Cov Kev Pab Cuam yog nyob ntawm koj tus kheej li kev pheej hmoo. Peb tsis lees paub, txhawb nqa, sawv cev los sis lees paub qhov ua tiav, qhov tseeb, qhov raug, los sis kev ntseeg siab ntawm cov ntsiab lus los sis kev sib txuas lus tshaj tawm los ntawm Cov Kev Pab Cuam los sis pom zoo tej kev xav tso tawm los ntawm Cov Kev Pab Cuam. Koj nkag siab tias los ntawm kev siv Cov Kev Pab Cuam, koj tuaj yeem ntsib Cov Ntsiab Lus uas tej zaum yuav ua rau muaj kev cuam tshuam, tsim kev puas tsuaj, tsis raug los sis lwm yam tsis tsim nyog, los sis hauv qee kis, kev tshaj tawm uas tau sau tsis raug los sis yog lwm yam kev dag ntxias. Tag nrho Cov Ntsiab Lus yog lub luag hauj lwm ntawm tus neeg uas tau tsim Cov Ntsiab Lus no. Peb yuav tsis saib xyuas los sis tswj cov ntsiab lus tshaj tawm los ntawm Cov Kev Pab Cuam thiab, peb tsis tuaj yeem lav lub luag hauj lwm rau Cov Ntsiab Lus no.
+
+Peb muaj cai tshem tawm Cov Ntsiab Lus uas ua txhaum Daim Ntawv Pom Zoo Rau Tus Neeg Siv, suav nrog piv txwv li, kev ua txhaum txoj cai los sis cov cim lag luam los sis kev ua tsis ncaj ncees ntawm lwm cov cuab yeej cuab tam kev txawj ntse, kev dag tias yog lwm tus neeg, kev ua txhaum cai los sis kev thab plawb. Cov ntaub ntawv hais txog cov cai tshwj xeeb thiab cov txheej txheem rau kev tshaj tawm los sis thov ua txhaum cai tuaj yeem nrhiav pom hauv peb lub Chaw Pab Cuam (https://help.x.com/rules-and-policies/x-report-violation#specific-violations thiab https://help.x.com/managing-your-account/suspended-x-accounts).
+Yog tias koj ntseeg tias koj Cov Ntsiab Lus tau muab theej tawm hauv txoj hauv kev uas suav tias yog kev ua txhaum cai lij choj, thov qhia qhov no los ntawm kev mus saib peb daim ntawv tshaj tawm Txoj Cai Ntiag Tug ntawm (https://help.x.com/forms/dmca) los sis tiv tauj rau peb tus neeg sawv cev rau txoj cai ntiag tug uas tau txais los ntawm peb tau ntawm:
+X Corp.
+Txog Rau: Tus Neeg Sawv Cev Rau Txoj Cai Ntiag Tug
+Txoj Kev 1355 Market, Suite 900
+San Francisco, CA 94103
+Tshaj Tawm: https://help.x.com/forms/dmca
+Email: copyright@x.com
+
+
+
+
+
+
+
+
+
+
+          Koj Txoj Cai thiab Kev Muab Cov Cai hauv Cov Ntsiab Lus
+        
+
+
+
+
+
+
+
+
+
+Koj tseem tuav koj txoj cai rau ib qho twg ntawm Cov Ntsiab Lus uas koj xa, tshaj tawm los sis tso tawm rau los sis los ntawm Cov Kev Pab Cuam. Yam uas yog koj li yog koj li — koj muaj koj Cov Ntsiab Lus (thiab koj cov suab, cov duab thiab cov vis dis aus suav tias yog ib feem ntawm Cov Ntsiab Lus).
+
+Los ntawm kev xa, tshaj tawm los sis nthuav tawm Cov Ntsiab Lus ntawm los sis los ntawm Kev Pab Cuam, koj muab rau peb thoob plaws ntiaj teb, tsis suav nrog, tsis muaj nuj nqis rau txoj cai ntia tug (nrog rau txoj cai kev tso cai rau ncua me) siv, theej, luam tawm, txheej txheem, hloov kho, tshaj tawm, xa tawm , tso saib thiab faib Cov Ntsiab Lus hauv ib qho thiab tag nrho cov xov xwm los sis kev faib tawm tam sim no paub los sis tsim kho tom qab (kom meej ntxaws, cov cai no suav nrog, piv txwv li, kho, hloov pauv, thiab kev txhais lus). Daim ntawv tso cai no tso cai rau peb ua kom koj Cov Ntsiab Lus muaj nyob rau lwm lub ntiaj teb thiab cia lwm tus ua ib yam. Koj pom zoo tias daim ntawv tso cai no suav nrog txoj cai rau peb muab, txhawb, thiab txhim kho Cov Kev Pab Cuam thiab ua cov ntsiab lus xa mus rau los sis los ntawm Cov Kev Pab Cuam uas muaj rau lwm lub tuam txhab, cov koom haum los sis cov tib neeg rau kev sib koom ua ke, tshaj tawm, faib tawm, rov tshaj tawm, txhawm nqa kev muag los sis tshaj tawm ntawm Cov Ntsiab Lus ntawm lwm yam kev tshaj tawm thiab cov kev pab cuam, raws li peb cov nqe lus thiab cov xwm txheej rau kev siv Cov Ntsiab Lus. Xws li kev siv qhov kev ntxiv los ntawm peb, los sis lwm lub tuam txhab, cov koom haum los sis cov tib neeg, tsis muaj nyiaj them rau koj nrog rau cov ntsiab lus uas koj xa, tshaj tawm, xa tawm los sis lwm yam uas ua rau muaj los ntawm Kev Pab Cuam raws li koj qhov kev siv Cov Kev Pab Cuam tau pom zoo raws li kev them nyiaj txaus rau Cov Ntsiab Lus thiab muab cov cai ntawm no.
+Peb muaj cov txheej txheem hloov kho tshiab rau cov neeg koom tes hauv lub lab npauv ib puas ncig hauv ntiaj teb (ecosystem) tuaj yeem cuam tshuam nrog koj Cov Ntsiab Lus ntawm Cov Kev Pab Cuam. Cov kev cai no muaj los ua kom qhib siv lub lab npauv ib puas ncig hauv ntiaj teb (ecosystem) nrog koj cov cai hauv siab. Koj nkag siab tias peb tuaj yeem hloov kho los sis hloov kho koj Cov Ntsiab Lus raws li nws tau muab faib, sib sau ua ke, luam tawm, los sis tshaj tawm los ntawm peb thiab peb cov neeg koom tes thiab/los sis hloov pauv rau koj Cov Ntsiab Lus txhawm rau hloov kho Cov Ntsiab Lus rau cov xov xwm sib txawv.
+Koj sawv cev thiab lees paub tias koj muaj, los sis tau txais, tag nrho cov cai, daim ntawv tso cai, kev pom zoo, kev tso cai, lub hwj chim thiab/los sis txoj cai tsim nyog los muab cov cai tso cai ntawm no rau Cov Ntsiab Lus uas koj xa, tshaj tawm los sis tso rau hauv los sis los ntawm Cov Kev Pab Cuam. Koj pom zoo tias Cov Ntsiab Lus no yuav tsis muaj cov ntaub ntawv raug cai los sis lwm cov cai khoom cuab yeej cuab tam, tshwj tsis yog koj muaj kev tso cai tsim nyog los sis tsis muaj cai raug cai los tshaj tawm cov ntaub ntawv thiab tso cai rau peb daim ntawv tso cai tau piav qhia saum toj no.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          4. Kev Siv Cov Kev Pab Cuam
+        
+
+
+
+
+
+
+
+
+
+Thov tshaj xyuas peb Cov Kev Cai thiab Cov Cai, uas yog ib feem ntawm Daim Ntawv Pom Zoo Rau Tus Neeg Siv thiab thiab daim ntawv qhia kev tsim tsa uas raug txwv ntawm Cov Kev Pab Cuam. Koj tuaj yeem siv Cov Kev Pab Cuam uas tsuas yog ua raws li Cov Nqe Lus no thiab tag nrho cov kev cai lij choj, cov cai thiab cov cai uas tswj siv tau tag nrho. X yuav ua kev tswj siv txoj cai thaum Cov Ntsiab Lus los sis tus cwj pwm ntawm tus neeg siv ua txhaum peb Cov Kev Cai thiab Cov Cai los sis cuam tshuam rau cov xov xwm uas muaj txhij txhua. Koj tuaj yeem tshuaj xyuas X cov kev xaiv kev tswj siv thiab txoj hauv kev uas koj tuaj yeem thov rov txiav txim dua peb qhov kev tswj siv tau ntawm no.
+Cov kev pab cuam muaj kev hloov zuj zus mus tas li. Yog li ntawd, Cov Kev Pab Cuam tuaj yeem hloov pauv qee lub sij hawm, ntawm peb qhov kev txiav txim siab. Peb tuaj yeem tso tseg (mus tas li los sis ib ntus) muab Cov Kev Pab Cuam los sis ib yam hauv Cov Kev Pab Cuam rau koj los sis rau cov neeg siv feem coob. Peb kuj tseem tuav txoj cai los tsim kev txwv ntawm kev siv thiab khaws cia ntawm peb tus kheej qhov kev txiav txim siab txhua lub sij hawm. Peb kuj tseem tuaj yeem tshem tawm los sis tsis kam faib cov ntsiab lus ntawm Cov Kev Pab Cuam, txwv kev faib los sis pom Cov Ntsiab Lus ntawm qhov kev pab cuam, ncua los sis txiav tawm cov neeg siv, thiab rov qab thov cov npe siv rov qab yam tsis muaj kev lav ris rau koj.
+Hauv kev txiav txim siab rau peb qhov kev tso cai rau koj nkag mus tua rau thiab siv Cov Kev Pab Cuam, koj pom zoo tias peb thiab peb cov neeg muab kev pab cuam thib peb thiab cov neeg koom tes tuaj yeem tso kev tshaj tawm ntawm Cov Kev Pab Cuam los sis cuam tshuam nrog kev nthuav qhia Cov Ntsiab Lus los sis cov ntaub ntawv los ntawm Cov Kev Pab Cuam txawm tias xa los ntawm koj los sis lwm tus. Peb kuj tseem muaj cai nkag mus tau, nyeem, khaws cia, thiab nthuav tawm cov ntaub ntawv raws li peb ntseeg tau tias tsim nyog rau (i) ua raws li txoj cai lij choj, kev tswj hwm, txheej txheem kev cai lij choj los sis tsoom fwv thov, (ii) kev tswj siv Cov Nqe Lus, suav nrog kev tshawb xyuas cov peev txheej txog kev ua txhaum cai ntawm no, (iii) ntes, tiv thaiv, los sis lwm yam hais txog kev dag, kev ruaj ntseg los sis cov teeb meem kev lag luam, (iv) teb rau cov neeg siv kev thov, los sis (v) tiv thaiv cov cai, khoom los sis kev nyab xeeb ntawm X, nws cov neeg siv thiab cov pej xeem. Peb tsis tshaj tawm cov ntaub ntawv qhia txog tus kheej rau cov neeg thib peb tshwj tsis yog raws li peb Tsab Cai Hais Txog Kev Ceev Ntiag Tug.
+Qee cov kev pab cuam los sis cov yam ntxwv yuav tau muab rau ntawm X txhawm rau cov nqe lus ntxiv thiab cov xwm txheej uas tej zaum yuav siv hauv kev sib txuas nrog koj qhov kev siv cov kev pab cuam. Los ntawm kev siv los sis them rau ib qho ntawm cov kev pab cuam ntxiv no, koj pom zoo rau cov nqe lus ntxiv uas siv tau rau cov kev pab cuam, thiab cov nqe lus ntxiv no dhau los ua ib feem ntawm peb qhov kev pom zoo nrog koj. Yog tias ib qho ntawm cov nqe lus ntxiv uas cuam tshuam nrog Cov Nqe Lus no, cov nqe lus ntxiv yuav siv tau thaum koj siv cov kev pab cuam uas lawv thov.
+Yog tias koj siv cov yam ntxwv them nyiaj ntawm Cov Kev Pab Cuam, qhia tias koj pom zoo rau Cov Nqe Lus rau Cov Kev Pab Cuam Uas Them Nyiaj (https://legal.x.com/purchaser-terms.html).
+Yog tias koj siv tus tsim tawm cov yam ntxwv ntawm Cov Kev Pab Cuam, suav nrog tab sis tsis txwv rau X rau Cov Vev Xaib (https://developer.x.com/docs/twitter-for-websites), Cov Npav X (https://developer.x.com/docs/twitter-for-websites/cards/overview/abouts-cards), API Rau Pej Xeem (https://developer.x.com/docs), los sis Sau npe nkag siv nrog X (https://developer.x.com/docs/authentication/guides/log-in-with-twitter), koj pom zoo rau peb Daim Ntawv Pom Zoo Rau Tus Neeg Txhim Kho (https://developer.x.com/developer-terms/agreement) thiabTsab Cai Ntawm Tus Neeg Txhim Kho (https://developer.x.com/developer-terms/policy). Yog tias koj xav tsim dua tshiab, hloov kho, tsim cov khoom siv sib txawv, faib, muag, hloov pauv, nthuav tawm rau pej xeem, nthuav tawm, xa tawm, los sis lwm yam siv Cov Kev Pab Cuam los sis Cov Ntsiab Lus ntawm Cov Kev Pab Cuam, koj yuav tsum siv cov chaw ywj pheej (interfaces) thiab cov lus qhia peb muab, tshwj tsis yog raws li kev tso cai los ntawm Cov Kev Pab Cuam, Cov Nqe Lus, los sis cov nqe lus tau muab rau ntawm https://developer.x.com/developer-terms. Yog tsis li ntawd, tag nrho cov kev nqis tes ua no yuav raug txwv nruj heev. Yog tias koj yog tus kws tshawb fawb txog kev ruaj ntseg, koj yuav tsum ua raws li cov cai ntawm peb Lub Khoos Kas Kev Tshaj Tawm Qhov Tsis Zoo (https://hackerone.com/x). Cov kev cai uas tau teev tseg hauv kab lus ua ntej no tej zaum yuav tsis siv rau cov uas koom nrog hauv peb Lub Khoos Kas Tshaj Tawm Qhov Tsis Zoo.
+Yog tias koj siv cov kev tshaj tawm ntawm Cov Kev Pab Cuam, koj pom zoo rau peb Daim Ntawv Pom Zoo Kev Pab Cuam Tseem Ceeb (https://ads.x.com/terms).
+
+
+
+
+
+
+
+
+
+
+          Koj Tus As Khauj
+        
+
+
+
+
+
+
+
+
+
+Tej zaum koj yuav tau tsim ib tus as khauj txhawm rau kom siv Cov Kev Pab Cuam. Koj muaj lub luag hauj lwm rau kev tiv thaiv koj tus as khauj, yog li siv tus phav xab vawj kom nyuaj thiab txwv kev siv rau tus as khauj no. Peb tsis tuaj yeem thiab yuav tsis lav rau ib qho kev poob los sis kev puas tsuaj tshwm sim los ntawm koj qhov tsis ua raws li cov lus hais saum toj no.
+Koj tuaj yeem tswj hwm kev sib txuas lus feem ntau los ntawm Cov Kev Pab Cuam. Tej zaum peb yuav xav tau los muab qee qhov kev sib txuas lus rau koj, xws li kev tshaj tawm kev pab cuam thiab cov lus tswj hwm. Cov kev sib txuas lus no yog suav tias yog ib feem ntawm Cov Kev Pab Cuam thiab koj tus as khauj, thiab koj yuav tsis tuaj yeem xaiv uas tsis tau txais nws tau. Yog tias koj tau ntxiv koj tus naj npawb xov tooj rau hauv koj tus as khauj thiab tom qab ntawd koj hloov los sis kaw tsis siv tus naj npawb xov tooj ntawd, koj yuav tsum hloov kho koj cov ntaub ntawv as khauj los pab tiv thaiv peb ntawm kev sib txuas lus nrog txhua tus neeg uas tau txais koj tus naj npawb qub.
+
+
+
+
+
+
+
+
+
+
+          Koj Daim Ntawv Tso Cai Siv Cov Kev Pab Cuam
+        
+
+
+
+
+
+
+
+
+
+Peb muab rau koj tus kheej, thoob ntiaj teb, tsis muaj nuj nqis, tsis muaj kev tso cai thiab tsis yog daim ntawv tso cai siv cov software uas tau muab rau koj ua ib feem ntawm Cov Kev Pab Cuam. Daim ntawv tso cai no muaj lub hom phiaj nkaus xwb uas tso cai rau koj siv thiab txaus siab rau cov txiaj ntsig ntawm Cov Kev Pab Cuam raws li muab rau X, raws li tau tso cai los ntawm Cov Nqe Lus no.
+Cov Kev Pab Cuam tau txais kev tiv thaiv los ntawm kev cai nitag tug, kev lag luam, thiab lwm yam kev cai lij choj ntawm Teb Chaws Mes Kas thiab lwm lub teb chaws. Tsis muaj dab tsi hauv Cov Nqe Lus uas muab txoj cai rau koj siv lub npe X los sis ib qho ntawm X cov cim lag luam, cov logos, cov npe domain, lwm yam khoom lag luam tshwj xeeb, thiab lwm cov cai cuab yeej cuab tam. Txhua txoj cai, lub npe, thiab kev txaus siab rau thiab rau Cov Kev Pab Cuam (tsis suav Cov Ntsiab Lus uas tau muab los ntawm cov neeg siv) yog thiab yuav tseem yog cov cuab yeej cuab tam ntawm peb thiab tus neeg tso cai tib leeg nkaus xwb. Txhua qhov kev tawm tswv yim, cov lus xam mpom, los sis cov lus qhia uas koj tuaj yeem muab hais txog X, los sis Cov Kev Pab Cuam yog kev yeem ntawm siab thiab peb yuav pub dawb los siv cov lus tawm tswv yim, cov lus xam pom los sis cov lus qhia raws li peb pom zoo thiab tsis muaj kev lav dab tsi rau koj.
+
+
+
+
+
+
+
+
+
+
+          Kev siv Cov Kev Pab Cuam tsis raug
+        
+
+
+
+
+
+
+
+
+
+Koj kuj tseem pom zoo kom tsis txhob siv cov Kev Pab Cuam yuam kev, piv txwv li, los ntawm kev cuam tshuam nrog lawv los sis nkag mus rau lawv siv txoj kev uas tsis yog qhov chaw ywj pheej (interface) thiab cov lus qhia uas peb muab. Koj pom zoo tias koj yuav tsis ua hauj lwm nyob ib puag ncig cov kev txwv fab tev niv hauv software uas tau muab rau koj ua ib feem ntawm Cov Kev Pab Cuam, los sis tus neeg tsim tsa rov qab, muab sib cais los sis cais cov khoom lub software, tshwj tias thiab tsuas yog rau qhov uas tau tso cai los ntawm txoj cai lij choj. Koj yuav tsis ua ib qho ntawm cov hauv qab no thaum nkag mus tau los sis siv Cov Kev Pab Cuam: (i) nkag mus tau, cuam tshuam, los sis siv cov chaw uas tsis yog rau pej xeem ntawm Cov Kev Pab Cuam, peb lub lab npauv khoos phis tawj, los sis cov lab npauv xa khoom ntawm peb cov chaw muab kev pab cuam; (ii) soj ntsuam, xab kees, los sis kuaj qhov tsis zoo ntawm txhua lub lab npauv los sis nev vawj los sis ua txhaum cai los sis hla kev ntsuas kev nyab xeeb los sis kev lees paub; (iii) nkag mus tau los sis tshawb nrhiav los sis sim nkag mus los sis tshawb nrhiav Cov Kev Pab Cuam los ntawm ib qho twg (tsis siv neeg los sis lwm yam) uas tsis yog los ntawm peb, luam tawm qhov chaw ywj pheej (interfaces) uas tau muab los ntawm peb uas tam sim no peb muab kev pab cuam (thiab tsuas yog ua raws li cov ntsiab lus thiab cov xwm txheej), tshwj tsis yog koj tau txais kev tso cai tshwj xeeb kom ua li ntawd nyob rau hauv ib daim ntawv cog lus nrog peb (LUS CIM TSEG: tsis pub cuam tshuam ntaub ntawv los sis khawb nrhiav Cov Kev Pab Cuam nyob rau hauv ib daim ntawv, rau ib lub hom phiaj yam tsis tau txais kev tso cai ua ntawv sau ntawm peb ua ntej yog txwv tsis pub hais meej); (iv) forge tej TCP/IP pob ntawv header los yog ib feem ntawm cov ntaub ntawv saum taub hau nplooj ntawv nyob rau hauv tej email los sis tshaj tawm, los sis nyob rau hauv txhua txoj kev siv cov kev pab cuam raws li cov ntaub ntawv chaw nyob uas xa tuaj muaj kev hloov pauv, dag ntxias los sis tsis tseeb; (v) koom nrog ib qho kev coj ua uas ua txhaum peb Qhov Kev Tuav Tswj Lub Platform thiab Tsab Cai Hais Txog Spam los sis lwmCov Cai txhua yam; los sis (vi) muaj kev cuam tshuam, los sis cuam tshuam, (los sis sim ua li ntawd), kev nkag mus tau ntawm ib tus neeg siv, tus tswv tsev los sis lub nev vawj, suav nrog, tsis muaj kev txwv, kev xa vais lav, kev ntim puv dhau, ua kom muaj qhov nyab, kev xa tej yam tsis zoo (spamming), kev xa foob pob hauv kev xa ntawv hauv Cov Kev Pab Cuam, los sis los ntawm kev sau cov ntawv tsim Cov Ntsiab Lus uas ua rau muaj kev cuam tshuam los sis tsim lub nra uas hnyav dhau ntawm Cov Kev Pab Cuam. Nws tseem yog qhov ua txhaum cai ntawm Cov Nqe Lus no txhawm rau pab txhawb los sis pab lwm tus ua txhaum Cov Nqe Lus no, suav nrog los ntawm kev faib khoom los sis kev pab cuam uas ua rau los sis txhawb kom ua txhaum Cov Nqe Lus no.
+
+
+
+
+
+
+
+
+
+
+          Kev Xaus Cov Nqe Lus No
+        
+
+
+
+
+
+
+
+
+
+Tej zaum koj yuav xaws koj qhov kev pom zoo raug cai no txhua lub sij hawm los ntawm kev ua kom koj tus as khauj tsis ua hauj lwm thiab txiav kev siv Cov Kev Pab Cuam. Saib https://help.x.com/managing-your-account/how-to-deactivate-x-account rau cov lus qhia txog txoj hauv kev kaw siv koj tus as khauj thiab Tsab Cai Hais Txog Kev Ntiag Tug txhawm rau kom paub ntau ntxiv txog yam uas tshwm sim rau koj cov ntaub ntawv.
+Peb tuaj yeem ncua los sis txiav koj tus as khauj los sis tso tseg tag nrho los sis ib feem ntawm Cov Kev Pab Cuam rau koj txhua lub sij hawm yog tias peb ntseeg tias: (i) koj tau ua txhaum Cov Nqe Lus no los sis peb Cov Kev Cai thiab Cov Cai, (ii) koj tsim kev pheej hmoo los sis nthuav tawm cov kev cai uas tej zaum yuav tshwm sim rau peb; (iii) koj tus as khauj yuav tsum raug tshem tawm vim yog kev coj tsis raug cai; (iv) koj tus as khauj yuav tsum raug tshem tawm vim tsis ua hauj lwm ntev; los sis (v) peb qhov kev muab Cov Kev Pab Cuam rau koj tsis tuaj yeem ua lag luam tau txuas ntxiv. Peb yuav ua kom tsim nyog los ceeb toom rau koj los ntawm chaw nyob email uas cuam tshuam nrog koj tus as khauj los sis lwm zaus koj sim nkag mus rau koj tus as khauj, nyob ntawm qhov xwm txheej. Raws li thaj tsam uas txoj cai lij choj tso cai, peb kuj tseem tuaj yeem txiav koj tus as khauj los sis tso tseg tag nrho los sis ib feem ntawm Cov Kev Pab Cuam rau koj vim lwm yam los sis tsis muaj laj thawj ntawm peb qhov yooj yim. Nyob rau hauv txhua qhov xwm txheej, Cov Nqe Lus yuav xaus, suav nrog, yam tsis muaj kev txwv rau, koj daim ntawv tso cai los siv Cov Kev Pab Cuam, tshwj tsis yog cov tshooj hauv qab no yuav tsum siv txuas ntxiv mus ntxiv: 2, 3, 5, 6, thiab nqe lus kev siv rau qhov uas tsis raug ntawm Tshooj 4 ("Kev Siv Cov Kev Pab Cuam Tsis Raug"). Yog tias koj ntseeg tias koj tus as khauj raug txiav tawm hauv qhov yuam kev koj tuaj yeem ua ntawv thov rov txiav txim dua tom qab cov kauj ruam uas pom hauv peb Lub Chaw Pab Cuam (https://help.x.com/forms/account-access/appeals). Txhawm rau zam kev tsis ntseeg, Cov Nqe Lus no muaj txoj sia nyob ntawm kev ua hauj lwm los sis txiav koj tus as khauj.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          5. Kev Tsis Kam Lees Qhov Kev Lav Ris thiab Qhov Kev Txwv Rau Kev Lav
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Muaj Cov Kev Pab Cuam  "RAWS LI QHOV YOG"
+        
+
+
+
+
+
+
+
+
+
+Koj txoj kev nkag mus tau rau thiab siv Cov Kev Pab Cuam los sis Cov Ntsiab Lus yog nyob ntawm koj tus kheej qhov kev pheej hmoo. Koj nkag siab thiab pom zoo tias Cov Kev Pab Cuam tau muab rau koj raws li "RAWS LI QHOV YOG" thiab "RAWS LI QHOV MUAJ". "Cov Koom Haum X" yog hais txog X Corp., lub tuam txhob loj, cov tuam txhab koom tes, cov tuam txhab muaj feem xyuam, cov thawj coj, cov neeg ua hauj lwm, cov neeg sawv cev, cov neeg sawv cev, cov neeg koom tes, thiab cov neeg tso cai.  Yog tias tsis txwv cov lus hauv qab no, mus txog qhov siab tshaj plaws uas tau tso cai raws li txoj cai lij choj, COV KOOM HAUM X, TSIS KAM LEES TXHUA QHOV KEV LAV RIS, THIAB COV XWM TXHEEJ, TSIS HAIS TIAS YUAV MEE LOS SIS KEV TXHAIS TAU, NTAWM QHOV KEV MUAJ PEEV XWM RAU KEV MUAG KHOOM, QHOV HAUM TSIM NYOG RAU LUB HOM PHIAJ TSHWJ XEEB, LOS SIS TSIS YOG KEV UA TXHUAM CAI. Cov Koom Haum X tsis muaj kev lav paub los sis kev sawv cev thiab tsis lees paub txhua lub luag hauj lwm thiab kev lav ris rau: (i) qhov ua tiav, raug, muaj, raws sij hawm, kev ruaj ntseg los sis kev ntseeg siab ntawm Cov Kev Pab Cuam los sis Cov Ntsiab Lus twg; (ii) ib qho kev puas tsuaj twg rau koj lub lab npauv khoos phis tawj, kev poob cov ntaub ntawv, los sis lwm yam kev puas tsuaj uas tshwm sim los ntawm koj kev nkag mus tau los sis siv Cov Kev Pab Cuam los sis Cov Ntsiab lus; (iii) kev tshem tawm, los sis tsis tuaj yeem khaws cia los sis xa tawm, cov ntsiab lus thiab lwm yam kev sib txuas lus tswj hwm los ntawm Cov Kev Pab Cuam; thiab (iv) seb Cov Kev Pab Cuam puas yuav ua tau raws li koj cov kev xav tau los sis muaj nyob rau ntawm qhov tsis muaj kev cuam tshuam, ruaj ntseg, los sis tsis muaj qhov yuam kev. Tsis muaj lus qhia los sis cov ntaub ntawv, txawm hais tias qhov ncauj los sis sau ntawv, tau txais los ntawm Cov Koom Haum X los sis los ntawm Cov Kev Pab Cuam, yuav tsim ib qho kev lees paub los sis kev sawv cev tsis tau hais meej hauv no.
+
+
+
+
+
+
+
+
+
+
+          Kev Cai txog Nuj Nqis
+        
+
+
+
+
+
+
+
+
+
+RAWS LI KEV TSO CAI LSO NTAWM TXOJ CAI LIJ CHOJ, COV KOOM HAUM X YUAV TSIS LAV RIS RAU QHOV KEV PUAS TSUAJ, QHOV XWM TXHEEJ, TSHWJ XEEB, QHOV TSHWM SIM LOS SIS LWM YAM KEV PUA TSUAJ, LOS SIS RAWS LI KEV RAU TXIM LOS ISS IB QHO POOM NTAWM NYIAJ TXIAG LOS SIS COV NYIAJ KHWV TAU LOS, TXAWM TIAS TSHWM SIM NCAJ QHA LOS SIS TSIS NCAJ, LOS SIS POOB NTAWM COV NTAUB NTAWV, SIV, LOS SIS LWM KEV PUAS TSUAJ UAS TSHWM SIM LOS NTAWM (i) KOJ NKAG MUS TAU LOS SIS SIV LOS SIS TSIS MUAJ PEEV XWM NKAG MUS TAU LOS SIS SIV COV KEV PAB CUAM; (ii) IB QHO KEV COJ UA LOS SIS COV NTSIAB LUS NTAWM TIB TUS NEEG TIB PEB NTAWM COV KEV PAB CUAM: SUAV NROG TAB SIS TSIS TXWV RAU KEV DAG RAU KEV UA PHEM LOS SIS KEV UA TXHAUM CAI NTAWM LWM TUS NEEG SIV LOS SIS COV NEEG THIB PEB; (iii) COV NTSIAB LUS TAU TXAIS LOS NTAWM COV KEV PAB CUAM; LOS SIS (iv) TXWV TSIS PUB NKAG TAU, SIV LOS SIS HLOOV PAUV KOJ COV KEV XA TAWM LOS SIS COV NTSIAB LUS. TSIS HAIS NYOB RAU QHOV XWM TXHEEJ TWG KEV LAV RIS TAG NRHO NTAWM COV KOOM HAUM X YUAV TSHAJ LI IB PUAS DUAS LAS ($100 NYIAJ DUAS LAS) LOS SIS TUS NQI UAS KOJ TAU THEM RAU PEB, YOG TIAS MUAJ, HAUV RAU LUB HLIS DHAU LOS RAU QHOV KEV THOV ROV QAB. COV KEV TXWV NTAWM QHOV TSHOOJ ME NO YUAV SIV TAU RAU TXHUA QHOV KEV XAV TAU NTAWM KEV LAV RIS, TSIS HAIS TAIS SEB QHOV KEV LAV, NTAWV COG LUS, COV CAI, KEV UA TXHAUM CAI (NROG RAU KEV TSIS SAIB XYUAS) LOS SIS LWM YAM, THIAB TSIS HAIS TXOG LUB KOOM HAUM X YUAV TAU TXAIS KEV CEEB TOOM TXOG QHOV MUAJ PEEV XWM NTAWM KEV PUAS TSUAJ, THIAB TXAWM TIAS QHOV KEV KHO MOB TAU TEEV TSEG HAUV NO TAU POM TIAS UA TSIS TIAV NTAWM NWS LUB HOM PHIAJ TSEEM CEEB.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          6. Feem Dav
+        
+
+
+
+
+
+
+
+
+
+Peb tuaj yeem hloov kho Cov Nqe Lus no ib ntus. Cov kev hloov pauv yuav tsis rov qab ua dua, thiab cov qauv tam sim no feem ntau ntawm Cov Lus Cog Tseg, uas ib txwm nyob ntawm x.com/tos, yuav tswj hwm peb txoj kev sib raug zoo nrog koj. Peb yuav sim ceeb toom rau koj txog kev hloov kho cov ntaub ntawv, piv txwv li los ntawm kev ceeb toom kev pab cuam los sis email mus rau email uas tau txuas nrog koj tus as khauj. Los ntawm kev nkag mus tau txuas ntxiv los sis siv Cov Kev Pab Cuam tom qab cov kev hloov kho no ua tau zoo, koj pom zoo ua raws li Cov Nqe Lus kho dua tshiab. Rau qhov uas tau tso cai los ntawm txoj cai lij choj, koj kuj tseem tau zam txoj cai los koom nrog ua tus foob los sis tus tswv cuab hauv chav kawm hauv ib qho kev txiav txim hauv chav kawm, kev nqis tes ua-ua ke los sis kev nqis tes ua sawv cev.
+Txoj cai lij choj ntawm Xeev California, tsis suav nrog nws cov kev xaiv ntawm txoj cai lij choj, yuav tswj hwm Cov Nqe Lus no thiab txhua qhov kev tsis sib haum xeeb uas tshwm sim ntawm koj thiab peb. Txhua qhov kev tsis sib haum xeeb ntsig txog Cov Nqe Lus los sis Cov Kev Pab Cuam yuav raug coj los txiav txim hauv lub tsev hais plaub tsoom fwv los sis lub xeev uas nyob hauv Cheeb Tsam Nroog San Francisco County, California, Teb Chaws Mes Kas, thiab koj tso cai rau txoj cai lij choj ntawm tus kheej thiab zam txhua qhov kev tawm tsam raws li lub rooj sib tham uas tsis muaj qhov yooj yim. Raws li txoj cai lij choj tso cai, koj kuj tseem zam txoj cai los koom ua ib tus neeg foob los sis tus tswv cuab hauv chav kawm hauv ib qho kev txiav txim hauv chav kawm, kev ua hauj lwm sib sau ua ke los sis kev nqis tes ua sawv cev. 
+Yog tias koj yog lub koom haum ntawm tsoom fwv teb chaws, xeev, los sis tsoom fwv hauv nroog hauv Teb Chaws Mes Kas uas siv Cov Kev Pab Cuam hauv koj lub peev xwm ua hauj lwm thiab raug cai tsis tuaj yeem lees txais txoj cai tswj hwm, kev txiav txim plaub ntug los sis cov nqe lus saum toj no ua tau raws txoj cai lij choj, cov nqe lus no tsis siv rau koj. Rau cov koom haum tseem ceeb hauv Teb Chaws Mes Kas, Cov Nqe Lus thiab ib qho kev nqis tes ua uas cuam tshuam nrog yuav raug tswj hwm los ntawm cov kev cai lij choj ntawm Teb Chaws Mes Kas (tsis hais txog kev tsis sib haum xeeb ntawm txoj cai lij choj) thiab, thaum tsis muaj tsoom fwv txoj cai lij choj thiab raws li kev tso cai raws li tsoomfwv txoj cai lij choj, cov cai lij choj ntawm Xeev California (tsis suav nrog kev xaiv txoj cai lij choj).
+Daim Ntawv Pom Zoo Rau Tus Neeg Siv X yog sau ua lus As Kiv tab sis muaj kev txhais lus ua ntau hom lus. X tau mob siab ua kom cov lus txhais kom raug raws li qhov ua tau rau cov lus As Kiv hom qub. Txawm li cas los xij, yog tias muaj qhov tsis sib xws los sis tsis sib xws, hom lus As Kiv ntawm Daim Ntawv Pom Zoo Rau Tus Nee Siv X yuav tsum muab kev tseem ceeb ua ntej. Koj lees paub tias lus As Kiv yuav yog hom lus siv rau kev txhais lus thiab tsim cov ntsiab lus ntawm Daim Ntawv Pom Zoo Rau Tus Neeg Siv X.
+Nyob rau hauv cov xwm txheej uas ib qho kev muab ntawm Cov Nqe Lus no raug tuav tsis raug los sis tsis raug cai, cov kev cai ntawd yuav raug txwv los sis tshem tawm mus rau qhov tsawg kawg nkaus uas tsim nyog, thiab cov kev cai tseem ceeb ntawm Cov Nqe Lus kuj tseem yuav muaj kev tswj siv tau tag nrho. Peb tsis ua raws li txoj cai los sis kev muab ntawm Cov Nqe Lus no yuav tsis raug suav tias yog kev zam ntawm txoj cai los sis kev cai.
+Yog tias koj muaj lus nug txog Cov Nqe Lus no, thov tiv tauj rau peb.
+Pib siv tau thaum: Lub Cuaj Hlis Ntuj Tim 29, 2023
+Kev Khaws Cov Nqe Lus Yav Dhau Los
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+Cov Nqe Lus txog Qhov Kev Pab Cuam ntawm X
+Yog tias koj nyob hauv Lub Koom Haum European Union, Cov Xeev Ntawm EFTA, los sis Teb Chaws As Kiv
+Cov Nqe Lus txog Qhov Kev Pab Cuam no ("Cov Nqe Lus") tswj hwm koj txoj kev nkag mus tau rau thiab siv peb cov kev pab cuam, suav nrog peb ntau lub vev xaib, SMS, APIs, kev ceeb toom hauv email, daim ntawv thov, cov pob nyem, widgets, xov xwm tshaj tawm, kev pab cuam fab kev lag luam, thiab peb lwm cov kev pab cuam uas tau txais kev duav roos (https://help.x.com/rules-and-policies/x-services-and-corporate-affiliates) uas txuas mus rau Cov Nqe Lus no (hu ua ke tias, "Cov Kev Pab Cuam"), thiab txhua cov ntaub ntawv, ntawv nyeem, cov txuas, duab, duab, suab, cov vis dis aus, los sis lwm yam ntaub ntawv los sis kev npaj ntawm cov ntaub ntawv uas rub nkag, rub tawm los sis tshwm sim ntawm Cov Kev Pab Cuam (hu ua ke tias " Cov Ntsiab Lus”). Los ntawm kev siv Cov Kev Pab Cuam uas koj pom zoo ua raws li Cov Nqe Lus no.
+Cov Nqe Lus no yog kev pom zoo ntawm koj thiab Lub Tuam Txhab Twitter International Unlimited Company (Tus naj npawb lub tuam txhab 503351, tus lej VAT IE9803175Q), lub tuam txhab Irish, uas muab X thiab Cov Kev Pab Cuam, nrog rau nws qhov chaw ua hauj lwm sau npe ntawm One Cumberland Place, Fenian Street Dublin 2, D02 AX07 Ireland. Cov lus “peb,” “peb,” thiab “peb li” txhais tias Lub Tuam Txhab Twitter International Unlimited Company.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                1. Leej Twg Thiaj Tuaj Yeem Siv Cov Kev Pab Cuam
+              
+
+
+
+                2. Kev Ceev Ntaig Tug
+              
+
+
+
+                3. Cov ntsiab lus ntawm Cov Kev Pab Cuam
+              
+
+
+
+                4. Kev Siv Cov Kev Pab Cuam
+              
+
+
+
+                5. Cov Kev Cai txog Nuj Nqis
+              
+
+
+
+                6. Feem Dav
+              
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                        1. Leej Twg Thiaj Tuaj Yeem Siv Cov Kev Pab Cuam
+                    
+
+
+
+                        2. Kev Ceev Ntaig Tug
+                    
+
+
+
+                        3. Cov ntsiab lus ntawm Cov Kev Pab Cuam
+                    
+
+
+
+                        4. Kev Siv Cov Kev Pab Cuam
+                    
+
+
+
+                        5. Cov Kev Cai txog Nuj Nqis
+                    
+
+
+
+                        6. Feem Dav
+                    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          1. Leej Twg Thiaj Tuaj Yeem Siv Cov Kev Pab Cuam
+        
+
+
+
+
+
+
+
+
+
+Koj tuaj yeem siv Cov Kev Pab Cuam nkaus xwb yog tias koj pom zoo tsim daim ntawv cog lus nrog peb thiab tsis yog ib tus neeg raug txwv tsis pub txais kev pab cuam raws li txoj cai lij choj ntawm lub chaw txiav txim plaub ntug uas ntsig txog. Txawm li cas los xij, koj yuav tsum muaj hnub nyoog tsawg kawg yog 13 xyoos los siv Cov Kev Pab Cuam. Yog tias koj lees txais Cov Nqe Lus no thiab kev siv Cov Kev Pab Cuam sawv cev rau lub tuam txhab, lub koom haum, tsoom fwv, los sis lwm qhov chaw raug cai, koj sawv cev thiab lees paub tias koj tau tso cai kom ua li ntawd thiab muaj txoj cai los khi cov koom haum no rau Cov Nqe Lus no, uas qhov xwm txheej cov lus "koj" thiab "koj li" raws li siv nyob rau hauv Cov Nqe Lus no yuav tsum xa mus rau qhov chaw ntawd.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          2. Kev Ceev Ntaig Tug
+        
+
+
+
+
+
+
+
+
+
+Peb Tsab Cai Hais Txog Kev Ceev Ntiag Tug (https://www.x.com/privacy) piav qhia txo hauv kev uas peb tswj tau cov ntaub ntawv koj muab rau peb thaum koj siv Cov Kev Pab Cuam. Koj nkag siab tias dhau ntawm koj qhov kev siv Cov Kev Pab Cuam koj tso cai rau kev suav sau thiab siv (raws li tau teev tseg hauv Tsab Cais Hais Txog Kev Ceev Ntiag Tug) ntawm cov ntaub ntawv no, suav nrog kev xa cov ntaub ntawv no mus rau Teb Chaws Mes Kas, Ireland, thiab/los sis lwm lub teb chaws rau kev khaws cia, ua thiab siv los ntawm peb thiab peb cov tuam thab koom tes.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          3. Cov ntsiab lus ntawm Cov Kev Pab Cuam
+        
+
+
+
+
+
+
+
+
+
+Koj muaj lub luag hauj lwm rau koj kev siv Cov Kev Pab Cuam thiab rau txhua Cov Ntsiab Lus uas koj muab, suav nrog kev ua raws li kev cai lij choj, cov cai, thiab cov cai uas tswj siv tau. Koj tsuas yog yuav tsum muab Cov Ntsiab Lus uas koj nyiam sib koom nrog lwm tus.
+Kev siv los sis kev tso siab rau cov ntsiab lus los sis cov ntaub ntawv tshaj tawm los ntawm Cov Kev Pab Cuam los sis tau txais los ntawm koj los ntawm Cov Kev Pab Cuam yog nyob ntawm koj tus kheej li kev pheej hmoo. Peb tsis lees paub, txhawb nqa, sawv cev los sis lees paub qhov ua tiav, qhov tseeb, qhov raug, los sis kev ntseeg siab ntawm cov ntsiab lus los sis kev sib txuas lus tshaj tawm los ntawm Cov Kev Pab Cuam los sis pom zoo tej kev xav tso tawm los ntawm Cov Kev Pab Cuam. Koj nkag siab tias los ntawm kev siv Cov Kev Pab Cuam, koj tuaj yeem ntsib Cov Ntsiab Lus uas tej zaum yuav ua rau muaj kev cuam tshuam, tsim kev puas tsuaj, tsis raug los sis lwm yam tsis tsim nyog, los sis hauv qee kis, kev tshaj tawm uas tau sau tsis raug los sis yog lwm yam kev dag ntxias. Tag nrho Cov Ntsiab Lus yog lub luag hauj lwm ntawm tus neeg uas tau tsim Cov Ntsiab Lus no. Peb yuav tsis saib xyuas los sis tswj cov ntsiab lus tshaj tawm los ntawm Cov Kev Pab Cuam thiab, peb tsis tuaj yeem lav lub luag hauj lwm rau Cov Ntsiab Lus no.
+Peb muaj cai tshem tawm Cov Ntsiab Lus uas ua txhaum Daim Ntawv Pom Zoo Rau Tus Neeg Siv, suav nrog piv txwv li, kev ua txhaum txoj cai los sis cov cim lag luam los sis kev ua tsis ncaj ncees ntawm lwm cov cuab yeej cuab tam kev txawj ntse, kev dag tias yog lwm tus neeg, kev ua txhaum cai los sis kev thab plawb. Cov ntaub ntawv hais txog cov cai tshwj xeeb thiab cov txheej txheem rau kev tshaj tawm los sis thov ua txhaum cai tuaj yeem nrhiav pom hauv peb lub Chaw Pab Cuam (https://help.x.com/rules-and-policies/x-report-violation thiab https://help.x.com/managing-your-account/suspended-x-accounts).
+Yog tias koj ntseeg tias koj Cov Ntsiab Lus tau muab theej tawm hauv txoj hauv kev uas suav tias yog kev ua txhaum cai lij choj, thov qhia qhov no los ntawm kev mus saib peb daim ntawv tshaj tawm Txoj Cai Ntiag Tug ntawm (https://help.x.com/forms/dmca) los sis tiv tauj rau peb tus neeg sawv cev rau txoj cai ntiag tug uas tau txais los ntawm peb tau ntawm:
+X Corp.
+Txog Rau: Tus Neeg Sawv Cev Rau Txoj Cai Ntiag Tug
+Txoj Kev 1355 Market, Suite 900
+San Francisco, CA 94103
+Tshaj Tawm: https://help.x.com/forms/dmca
+Email: copyright@x.com
+
+
+
+
+
+
+
+
+
+
+          Koj Txoj Cai thiab Kev Muab Cov Cai hauv Cov Ntsiab Lus
+        
+
+
+
+
+
+
+
+
+
+Koj tseem tuav koj txoj cai rau ib qho twg ntawm Cov Ntsiab Lus uas koj xa, tshaj tawm los sis tso tawm rau los sis los ntawm Cov Kev Pab Cuam. Yam uas yog koj li yog koj li — koj muaj koj Cov Ntsiab Lus (thiab koj cov suab, cov duab thiab cov vis dis aus suav tias yog ib feem ntawm Cov Ntsiab Lus).
+Los ntawm kev xa, tshaj tawm los sis nthuav tawm Cov Ntsiab Lus ntawm los sis los ntawm Kev Pab Cuam, koj muab rau peb thoob plaws ntiaj teb, tsis suav nrog, tsis muaj nuj nqis rau txoj cai ntia tug (nrog rau txoj cai kev tso cai rau ncua me) siv, theej, luam tawm, txheej txheem, hloov kho, tshaj tawm, xa tawm , tso saib thiab faib Cov Ntsiab Lus hauv ib qho thiab tag nrho cov xov xwm los sis kev faib tawm tam sim no paub los sis tsim kho tom qab (kom meej ntxaws, cov cai no suav nrog, piv txwv li, kho, hloov pauv, thiab kev txhais lus). Daim ntawv tso cai no tso cai rau peb ua kom koj Cov Ntsiab Lus muaj nyob rau lwm lub ntiaj teb thiab cia lwm tus ua ib yam. Txawm li cas los xij, yog tias koj tau xaiv los ntawm peb cov yam ntxwv los txwv kev faib koj Cov Ntsiab Lus rau hauv zej zog uas raug txwv, peb yuav hwm qhov kev xaiv ntawd. Koj kuj pom zoo tias daim ntawv tso cai no suav nrog txoj cai los txheeb xyuas cov ntawv thiab lwm yam ntaub ntawv uas koj muab nrog rau kev tshuaj xyuas los txhim kho Cov Kev Pab Cuam. Koj pom zoo tias daim ntawv tso cai no suav nrog txoj cai rau peb muab, txhawb, thiab txhim kho Cov Kev Pab Cuam thiab ua cov ntsiab lus xa mus rau los sis los ntawm Cov Kev Pab Cuam uas muaj rau lwm lub tuam txhab, cov koom haum los sis cov tib neeg rau kev sib koom ua ke, tshaj tawm, faib tawm, rov tshaj tawm, txhawm nqa kev muag los sis tshaj tawm ntawm Cov Ntsiab Lus ntawm lwm yam kev tshaj tawm thiab cov kev pab cuam, raws li peb cov nqe lus thiab cov xwm txheej rau kev siv Cov Ntsiab Lus. Xws li kev siv qhov kev ntxiv los ntawm peb, los sis lwm lub tuam txhab, cov koom haum los sis cov tib neeg, tsis muaj nyiaj them rau koj nrog rau cov ntsiab lus uas koj xa, tshaj tawm, xa tawm los sis lwm yam uas ua rau muaj los ntawm Kev Pab Cuam raws li koj qhov kev siv Cov Kev Pab Cuam tau pom zoo raws li kev them nyiaj txaus rau Cov Ntsiab Lus thiab muab cov cai ntawm no.
+Peb muaj cov txheej txheem hloov kho tshiab rau cov neeg koom tes hauv lub lab npauv ib puas ncig hauv ntiaj teb (ecosystem) tuaj yeem cuam tshuam nrog koj Cov Ntsiab Lus ntawm Cov Kev Pab Cuam. Cov kev cai no muaj los ua kom qhib siv lub lab npauv ib puas ncig hauv ntiaj teb (ecosystem) nrog koj cov cai hauv siab. Koj nkag siab tias peb tuaj yeem hloov kho los sis hloov kho koj Cov Ntsiab Lus raws li nws tau muab faib, sib sau ua ke, luam tawm, los sis tshaj tawm los ntawm peb thiab peb cov neeg koom tes thiab/los sis hloov pauv rau koj Cov Ntsiab Lus txhawm rau hloov kho Cov Ntsiab Lus rau cov xov xwm sib txawv.
+Koj sawv cev thiab lees paub tias koj muaj, los sis tau txais, tag nrho cov cai, daim ntawv tso cai, kev pom zoo, kev tso cai, lub hwj chim thiab/los sis txoj cai tsim nyog los muab cov cai tso cai ntawm no rau Cov Ntsiab Lus uas koj xa, tshaj tawm los sis tso rau hauv los sis los ntawm Cov Kev Pab Cuam. Koj pom zoo tias Cov Ntsiab Lus no yuav tsis muaj cov ntaub ntawv raug cai los sis lwm cov cai khoom cuab yeej cuab tam, tshwj tsis yog koj muaj kev tso cai tsim nyog los sis tsis muaj cai raug cai los tshaj tawm cov ntaub ntawv thiab tso cai rau peb daim ntawv tso cai tau piav qhia saum toj no.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          4. Kev Siv Cov Kev Pab Cuam
+        
+
+
+
+
+
+
+
+
+
+Thov tshaj xyuas peb Cov Kev Cai thiab Cov Cai, uas yog ib feem ntawm Daim Ntawv Pom Zoo Rau Tus Neeg Siv thiab thiab daim ntawv qhiakev tsim tsa uas raug txwv ntawm Cov Kev Pab Cuam. Koj tuaj yeem siv Cov Kev Pab Cuam uas tsuas yog ua raws li Cov Nqe Lus no thiab tag nrho cov kev cai lij choj, cov kev cai thiab cov cai uas siv tau. X yuav ua kev tswj siv txoj cai lij choj thaum Cov Ntsiab Lus los sis tus cwj pwm ntawm tus neeg siv ua txhaum peb Cov Kev Cai thiab Cov Cai lossis cuam tshuam txog kev tshaj xov xwm uas muaj txhij txhua. Koj tuaj yeem tshuaj xyuas X cov kev xaiv kev tswj siv thiab txoj hauv kev uas koj tuaj yeem thov rov txiav txim dua peb qhov kev tswj siv tau ntawm no.
+Cov kev pab cuam muaj kev hloov zuj zus mus tas li. Yog li ntawd, Cov Kev Pab Cuam tuaj yeem hloov pauv qee lub sij hawm, ntawm peb qhov kev txiav txim siab. Peb tuaj yeem tso tseg (mus tas li los sis ib ntus) muab Cov Kev Pab Cuam los sis ib yam hauv Cov Kev Pab Cuam rau koj los sis rau cov neeg siv feem coob. Peb kuj tseem tuav txoj cai los tsim kev txwv ntawm kev siv thiab khaws cia ntawm peb tus kheej qhov kev txiav txim siab txhua lub sij hawm. Peb kuj tseem tuaj yeem tshem tawm los sis tsis kam faib cov ntsiab lus ntawm Cov Kev Pab Cuam, txwv kev faib los sis pom Cov Ntsiab Lus ntawm qhov kev pab cuam, ncua los sis txiav tawm cov neeg siv, thiab rov qab thov cov npe siv rov qab yog tias nws tsim nyog, suav nrog rau cov laj thawj hauv qab no: (i) tiv thaiv Cov Kev Pab Cuam los sis peb cov neeg siv; (ii) ua raws li cov kev cai lij choj uas siv tau los sis kev txiav txim los ntawm cov tub ceev xwm muaj hwj chim; (iii) ua txhaum cai ntawm Cov Nqe Lus no los sis peb COv Kev Cai thiab Cov Cai los sis tog neeg thib peb cov khoom ntiag tug los sis lwm txoj cai; (iv) yog tias koj los sis koj Cov Ntsiab Lus ua rau peb, lwm tus neeg siv los sis ib tus neeg thib peb rau kev pheej hmoo raug cai los sis kev tswj hwm; thiab/los sis (v) kev tsis ua hauj lwm ntawm koj yog lub sij hawm ntev. 
+
+Hauv kev txiav txim siab rau peb qhov kev tso cai rau koj nkag mus tua rau thiab siv Cov Kev Pab Cuam, koj pom zoo tias peb thiab peb cov neeg muab kev pab cuam thib peb thiab cov neeg koom tes tuaj yeem tso kev tshaj tawm ntawm Cov Kev Pab Cuam los sis cuam tshuam nrog kev nthuav qhia Cov Ntsiab Lus los sis cov ntaub ntawv los ntawm Cov Kev Pab Cuam txawm tias xa los ntawm koj los sis lwm tus. Peb kuj tseem muaj cai nkag mus tau, nyeem, khaws cia, thiab nthuav tawm cov ntaub ntawv raws li peb ntseeg tau tias tsim nyog rau (i) ua raws li txoj cai lij choj, kev tswj hwm, txheej txheem kev cai lij choj los sis tsoom fwv thov, (ii) kev tswj siv Cov Nqe Lus, suav nrog kev tshawb xyuas cov peev txheej txog kev ua txhaum cai ntawm no, (iii) ntes, tiv thaiv, los sis lwm yam hais txog kev dag, kev ruaj ntseg los sis cov teeb meem kev lag luam, (iv) teb rau cov neeg siv kev thov, los sis (v) tiv thaiv cov cai, khoom los sis kev nyab xeeb ntawm X, nws cov neeg siv thiab cov pej xeem. Peb tsis tshaj tawm cov ntaub ntawv qhia txog tus kheej rau cov neeg thib peb tshwj tsis yog raws li peb Tsab Cai Hais Txog Kev Ceev Ntiag Tug.
+Qee cov kev pab cuam los sis cov yam ntxwv yuav tau muab rau ntawm X txhawm rau cov nqe lus ntxiv thiab cov xwm txheej uas tej zaum yuav siv hauv kev sib txuas nrog koj qhov kev siv cov kev pab cuam. Cov nqe lus ntxiv no nkag mus tau los ntawm peb qhov chaw thiab cov ntawv thov tshwj xeeb rau cov kev pab cuam los sis cov yam ntxwv no. Los ntawm kev siv los sis them rau ib qho ntawm cov kev pab cuam ntxiv no, koj yuav tsum tau pom zoo rau cov nqe lus ntxiv uas siv tau rau cov kev pab cuam, thiab cov nqe lus ntxiv no yuav dhau los ua ib feem ntawm peb qhov kev pom zoo nrog koj. Yog tias ib qho ntawm cov nqe lus ntxiv uas cuam tshuam nrog Cov Nqe Lus no, cov nqe lus ntxiv yuav siv tau thaum koj siv cov kev pab cuam uas lawv thov.
+Yog tias koj siv cov yam ntxwv them nyiaj ntawm Cov Kev Pab Cuam, qhia tias koj pom zoo rau Cov Nqe Lus rau Cov Kev Pab Cuam Uas Them Nyiaj (https://legal.x.com/purchaser-terms.html).
+Yog tias koj siv tus tsim tawm cov yam ntxwv ntawm Cov Kev Pab Cuam, suav nrog tab sis tsis txwv rau X rau Cov Vev Xaib (https://developer.x.com/docs/twitter-for-websites), Cov Npav X (https://developer.x.com/docs/twitter-for-websites/cards/overview/abouts-cards), API Rau Pej Xeem ( https://developer.x.com/docs), los sis Sau npe nkag siv nrog X (https://developer.x.com/docs/authentication/guides/log-in-with-twitter), koj pom zoo rau peb Daim Ntawv Pom Zoo Rau Tus Neeg Txhim Kho (https://developer.x.com/developer-terms/agreement) thiab Daim Ntawv Pom Zoo Rau Tus Neeg Txhim Kho (https://developer.x.com/developer-terms/policy). Yog tias koj xav tsim dua tshiab, hloov kho, tsim cov khoom siv sib txawv, faib, muag, hloov pauv, nthuav tawm rau pej xeem, nthuav tawm, xa tawm, los sis lwm yam siv Cov Kev Pab Cuam los sis Cov Ntsiab Lus ntawm Cov Kev Pab Cuam, koj yuav tsum siv cov chaw ywj pheej (interfaces) thiab cov lus qhia peb muab, tshwj tsis yog raws li kev tso cai los ntawm Cov Kev Pab Cuam, Cov Nqe Lus, los sis cov nqe lus tau muab rau ntawm https://developer.x.com/developer-terms. Yog tsis li ntawd, tag nrho cov kev nqis tes ua no yuav raug txwv nruj heev. Yog tias koj yog tus kws tshawb fawb txog kev ruaj ntseg, koj yuav tsum ua raws li cov cai ntawm peb Lub Khoos Kas Kev Tshaj Tawm Qhov Tsis Zoo (https://hackerone.com/x). Cov kev cai uas tau teev tseg hauv kab lus ua ntej no tej zaum yuav tsis siv rau cov uas koom nrog hauv peb Lub Khoos Kas Tshaj Tawm Qhov Tsis Zoo.
+Yog tias koj siv cov kev tshaj tawm ntawm Cov Kev Pab Cuam, koj pom zoo rau peb Daim Ntawv Pom Zoo Kev Pab Cuam Tseem Ceeb (https://ads.x.com/terms).
+
+
+
+
+
+
+
+
+
+
+          Koj Tus As Khauj
+        
+
+
+
+
+
+
+
+
+
+Tej zaum koj yuav tau tsim ib tus as khauj txhawm rau kom siv Cov Kev Pab Cuam. Koj muaj lub luag hauj lwm rau kev tiv thaiv koj tus as khauj, yog li siv tus phav xab vawj kom nyuaj thiab txwv kev siv rau tus as khauj no. Peb tsis tuaj yeem thiab yuav tsis lav rau ib qho kev poob los sis kev puas tsuaj tshwm sim los ntawm koj qhov tsis ua raws li cov lus hais saum toj no.
+Koj tuaj yeem tswj hwm kev sib txuas lus feem ntau los ntawm Cov Kev Pab Cuam. Tej zaum peb yuav xav tau los muab qee qhov kev sib txuas lus rau koj, xws li kev tshaj tawm kev pab cuam thiab cov lus tswj hwm. Cov kev sib txuas lus no yog suav tias yog ib feem ntawm Cov Kev Pab Cuam thiab koj tus as khauj, thiab koj yuav tsis tuaj yeem xaiv uas tsis tau txais nws tau. Yog tias koj tau ntxiv koj tus naj npawb xov tooj rau hauv koj tus as khauj thiab tom qab ntawd koj hloov los sis kaw tsis siv tus naj npawb xov tooj ntawd, koj yuav tsum hloov kho koj cov ntaub ntawv as khauj los pab tiv thaiv peb ntawm kev sib txuas lus nrog txhua tus neeg uas tau txais koj tus naj npawb qub.
+
+
+
+
+
+
+
+
+
+
+          Koj Daim Ntawv Tso Cai Siv Cov Kev Pab Cuam
+        
+
+
+
+
+
+
+
+
+
+Peb muab rau koj tus kheej, thoob ntiaj teb, tsis muaj nuj nqis, tsis muaj kev tso cai thiab tsis yog daim ntawv tso cai siv cov software uas tau muab rau koj ua ib feem ntawm Cov Kev Pab Cuam. Daim ntawv tso cai no muaj lub hom phiaj nkaus xwb uas tso cai rau koj siv thiab txaus siab rau cov txiaj ntsig ntawm Cov Kev Pab Cuam raws li muab rau X, raws li tau tso cai los ntawm Cov Nqe Lus no.
+Cov Kev Pab Cuam tau txais kev tiv thaiv los ntawm kev cai nitag tug, kev lag luam, thiab lwm yam kev cai lij choj ntawm Teb Chaws Mes Kas thiab lwm lub teb chaws. Tsis muaj dab tsi hauv Cov Nqe Lus uas muab txoj cai rau koj siv lub npe X los sis ib qho ntawm X cov cim lag luam, cov logos, cov npe domain, lwm yam khoom lag luam tshwj xeeb, thiab lwm cov cai cuab yeej cuab tam. Txhua txoj cai, lub npe, thiab kev txaus siab rau thiab rau Cov Kev Pab Cuam (tsis suav Cov Ntsiab Lus uas tau muab los ntawm cov neeg siv) yog thiab yuav tseem yog cov cuab yeej cuab tam ntawm peb thiab tus neeg tso cai tib leeg nkaus xwb. Txhua qhov kev tawm tswv yim, cov lus xam mpom, los sis cov lus qhia uas koj tuaj yeem muab hais txog X, los sis Cov Kev Pab Cuam yog kev yeem ntawm siab thiab peb yuav pub dawb los siv cov lus tawm tswv yim, cov lus xam pom los sis cov lus qhia raws li peb pom zoo thiab tsis muaj kev lav dab tsi rau koj.
+
+
+
+
+
+
+
+
+
+
+          Kev siv Cov Kev Pab Cuam tsis raug
+        
+
+
+
+
+
+
+
+
+
+Koj kuj tseem pom zoo kom tsis txhob siv cov Kev Pab Cuam yuam kev, piv txwv li, los ntawm kev cuam tshuam nrog lawv los sis nkag mus rau lawv siv txoj kev uas tsis yog qhov chaw ywj pheej (interface) thiab cov lus qhia uas peb muab. Koj pom zoo tias koj yuav tsis ua hauj lwm nyob ib puag ncig cov kev txwv fab tev niv hauv software uas tau muab rau koj ua ib feem ntawm Cov Kev Pab Cuam, los sis tus neeg tsim tsa rov qab, muab sib cais los sis cais cov khoom lub software, tshwj tias thiab tsuas yog rau qhov uas tau tso cai los ntawm txoj cai lij choj. Koj yuav tsis ua ib qho ntawm cov hauv qab no thaum nkag mus tau los sis siv Cov Kev Pab Cuam: (i) nkag mus tau, cuam tshuam, los sis siv cov chaw uas tsis yog rau pej xeem ntawm Cov Kev Pab Cuam, peb lub lab npauv khoos phis tawj, los sis cov lab npauv xa khoom ntawm peb cov chaw muab kev pab cuam; (ii) soj ntsuam, xab kees, los sis kuaj qhov tsis zoo ntawm txhua lub lab npauv los sis nev vawj los sis ua txhaum cai los sis hla kev ntsuas kev nyab xeeb los sis kev lees paub; (iii) nkag mus tau los sis tshawb nrhiav los sis sim nkag mus los sis tshawb nrhiav Cov Kev Pab Cuam los ntawm ib qho twg (tsis siv neeg los sis lwm yam) uas tsis yog los ntawm peb, luam tawm qhov chaw ywj pheej (interfaces) uas tau muab los ntawm peb uas tam sim no peb muab kev pab cuam (thiab tsuas yog ua raws li cov ntsiab lus thiab cov xwm txheej), tshwj tsis yog koj tau txais kev tso cai tshwj xeeb kom ua li ntawd nyob rau hauv ib daim ntawv cog lus nrog peb (LUS CIM TSEG: tsis pub cuam tshuam ntaub ntawv los sis khawb nrhiav Cov Kev Pab Cuam nyob rau hauv ib daim ntawv, rau ib lub hom phiaj yam tsis tau txais kev tso cai ua ntawv sau ntawm peb ua ntej yog txwv tsis pub hais meej); (iv) forge tej TCP/IP pob ntawv header los yog ib feem ntawm cov ntaub ntawv saum taub hau nplooj ntawv nyob rau hauv tej email los sis tshaj tawm, los sis nyob rau hauv txhua txoj kev siv cov kev pab cuam raws li cov ntaub ntawv chaw nyob uas xa tuaj muaj kev hloov pauv, dag ntxias los sis tsis tseeb; (v) koom nrog ib qho kev coj ua uas ua txhaum peb Qhov Kev Tuav Tswj Lub Platform thiab Tsab Cai Hais Txog Spam los sis lwm Cov Cai txhua yam; los sis (vi) muaj kev cuam tshuam, los sis cuam tshuam, (los sis sim ua li ntawd), kev nkag mus tau ntawm ib tus neeg siv, tus tswv tsev los sis lub nev vawj, suav nrog, tsis muaj kev txwv, kev xa vais lav, kev ntim puv dhau, ua kom muaj qhov nyab, kev xa tej yam tsis zoo (spamming), kev xa foob pob hauv kev xa ntawv hauv Cov Kev Pab Cuam, los sis los ntawm kev sau cov ntawv tsim Cov Ntsiab Lus uas ua rau muaj kev cuam tshuam los sis tsim lub nra uas hnyav dhau ntawm Cov Kev Pab Cuam. Nws tseem yog qhov ua txhaum cai ntawm Cov Nqe Lus no txhawm rau pab txhawb los sis pab lwm tus ua txhaum Cov Nqe Lus no, suav nrog los ntawm kev faib khoom los sis kev pab cuam uas ua rau los sis txhawb kom ua txhaum Cov Nqe Lus no.
+
+
+
+
+
+
+
+
+
+
+          Kev Xaus Cov Nqe Lus No
+        
+
+
+
+
+
+
+
+
+
+Tej zaum koj yuav xaws koj qhov kev pom zoo raug cai no txhua lub sij hawm los ntawm kev ua kom koj tus as khauj tsis ua hauj lwm thiab txiav kev siv Cov Kev Pab Cuam. Saib https://help.x.com/managing-your-account/how-to-deactivate-x-account rau cov lus qhia txog txoj hauv kev kaw siv koj tus as khauj thiab Tsab Cai Hais Txog Kev Ntiag Tug txhawm rau kom paub ntau ntxiv txog yam uas tshwm sim rau koj cov ntaub ntawv.
+Peb tuaj yeem ncua los sis txiav koj tus as khauj los sis tso tseg tag nrho los sis ib feem ntawm Cov Kev Pab Cuam rau koj txhua lub sij hawm yog tias peb ntseeg tias: (i) koj tau ua txhaum Cov Nqe Lus no los sis peb Cov Kev Cai thiab Cov Cai; (ii) koj tsim kev pheej hmoo los sis nthuav tawm cov kev cai uas tej zaum yuav tshwm sim rau peb; (iii) koj tus as khauj yuav tsum raug tshem tawm vim yog kev coj tsis raug cai; (iv) koj tus as khauj yuav tsum raug tshem tawm vim tsis ua hauj lwm ntev; los sis (v) peb qhov kev muab Cov Kev Pab Cuam rau koj tsis tuaj yeem ua lag luam tau txuas ntxiv. Peb yuav ua kom tsim nyog los ceeb toom rau koj los ntawm chaw nyob email uas cuam tshuam nrog koj tus as khauj los sis lwm zaus koj sim nkag mus rau koj tus as khauj, nyob ntawm qhov xwm txheej. Nyob rau hauv txhua qhov xwm txheej, Cov Nqe Lus yuav xaus, suav nrog, yam tsis muaj kev txwv rau, koj daim ntawv tso cai los siv Cov Kev Pab Cuam, tshwj tsis yog cov tshooj hauv qab no yuav tsum siv txuas ntxiv mus ntxiv: 2, 3, 5, 6, thiab nqe lus kev siv rau qhov uas tsis raug ntawm Tshooj 4 ("Kev Siv Cov Kev Pab Cuam Tsis Raug"). Yog tias koj ntseeg tias koj tus as khauj raug txiav tawm hauv qhov yuam kev koj tuaj yeem ua ntawv thov rov txiav txim dua tom qab cov kauj ruam uas pom hauv peb Lub Chaw Pab Cuam (https://help.x.com/forms/account-access/appeals). Txhawm rau zam kev tsis ntseeg, Cov Nqe Lus no muaj txoj sia nyob ntawm kev ua hauj lwm los sis txiav koj tus as khauj.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          5. Cov Kev Cai txog Nuj Nqis
+        
+
+
+
+
+
+
+
+
+
+Los ntawm kev siv Cov Kev Pab Cuam koj pom zoo tias X Corp., lub tuam txhab loj, cov tuam txhab koom tes, cov tuam txhab muaj feem cuam tshuam, cov tub ceev xwm, cov thawj coj, cov neeg ua hauj lwm, cov neeg sawv cev, cov koom tes thiab cov ntawv tso cai, kev lav ris yog txwv rau qhov siab tshaj plaws tso cai hauv lub teb chaws uas koj nyob.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          6. Feem Dav
+        
+
+
+
+
+
+
+
+
+
+Peb tuaj yeem hloov kho Cov Nqe Lus no ib ntus. Cov kev hloov pauv yuav tsis rov qab ua dua, thiab cov qauv tam sim no feem ntau ntawm Cov Lus Cog Tseg, uas ib txwm nyob ntawm x.com/tos, yuav tswj hwm peb txoj kev sib raug zoo nrog koj. Ntxiv rau qhov kev hloov pauv hais txog kev ua hauj lwm tshiab los sis ua rau muaj kev cai lij choj, peb yuav ceeb toom rau koj 30 hnub ua ntej ntawm kev hloov pauv cov ntsiab lus uas cuam tshuam rau cov cai los sis kev lav ris ntawm ib tog neeg rau Cov Nqe Lus, piv txwv li los ntawm kev ceeb toom kev pab cuam los sis email mus rau ib tus email uas cuam tshuam nrog koj tus as khauj. Los ntawm kev nkag mus tau txuas ntxiv los sis siv Cov Kev Pab Cuam tom qab cov kev hloov kho no ua tau zoo, koj pom zoo yuav raug khi raws ntawm Cov Nqe Lus uas kho dua tshiab.
+Raws li txoj cai lij choj tso cai, koj zam txoj cai los koom ua ib tus neeg foob los sis tus tswv cuab hauv chav kawm hauv ib qho kev txiav txim hauv chav kawm, kev ua hauj lwm sib sau ua ke los sis kev nqis tes ua sawv cev.
+
+Daim Ntawv Pom Zoo Rau Tus Neeg Siv X yog sau ua lus As Kiv tab sis muaj kev txhais lus ua ntau hom lus. X tau mob siab ua kom cov lus txhais kom raug raws li qhov ua tau rau cov lus As Kiv hom qub. Txawm li cas los xij, yog tias muaj qhov tsis sib xws los sis tsis sib xws, hom lus As Kiv ntawm Daim Ntawv Pom Zoo Rau Tus Nee Siv X yuav tsum muab kev tseem ceeb ua ntej. Koj lees paub tias lus As Kiv yuav yog hom lus siv rau kev txhais lus thiab tsim cov ntsiab lus ntawm Daim Ntawv Pom Zoo Rau Tus Neeg Siv X.
+Nyob rau hauv cov xwm txheej uas ib qho kev muab ntawm Cov Nqe Lus no raug tuav tsis raug los sis tsis raug cai, cov kev cai ntawd yuav raug txwv los sis tshem tawm mus rau qhov tsawg kawg nkaus uas tsim nyog, thiab cov kev cai tseem ceeb ntawm Cov Nqe Lus kuj tseem yuav muaj kev tswj siv tau tag nrho. Peb tsis ua raws li txoj cai los sis kev muab ntawm Cov Nqe Lus no yuav tsis raug suav tias yog kev zam ntawm txoj cai los sis kev cai.
+Yog tias koj muaj lus nug txog Cov Nqe Lus no, thov tiv tauj rau peb.
+Pib siv tau thaum: Lub Cuaj Hlis Ntuj Tim 29, 2023
+Kev Khaws Cov Nqe Lus Yav Dhau Los
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                X platform
+                
+
+
+
+
+
+
+
+
+
+                  X.com
+                
+
+
+
+                  Status
+                
+
+
+
+                  Accessibility
+                
+
+
+
+                  Embed a post
+                
+
+
+
+                  Privacy Center
+                
+
+
+
+                  Transparency Center
+                
+
+
+
+                  Download the X app
+                
+
+
+
+
+
+
+                X Corp.
+                
+
+
+
+
+
+
+
+
+
+                  About the company
+                
+
+
+
+                  Company news
+                
+
+
+
+                  Brand toolkit
+                
+
+
+
+                  Jobs and internships
+                
+
+
+
+                  Investors
+                
+
+
+
+
+
+
+                Help
+                
+
+
+
+
+
+
+
+
+
+                  Help Center
+                
+
+
+
+                  Using X
+                
+
+
+
+                  X for creators
+                
+
+
+
+                  Ads Help Center
+                
+
+
+
+                  Managing your account
+                
+
+
+
+                  Email Preference Center
+                
+
+
+
+                  Rules and policies
+                
+
+
+
+                  Contact us
+                
+
+
+
+
+
+
+                Developer resources
+                
+
+
+
+
+
+
+
+
+
+                  Developer home
+                
+
+
+
+                  Documentation
+                
+
+
+
+                  Forums
+                
+
+
+
+                  Communities
+                
+
+
+
+                  Developer blog
+                
+
+
+
+                  Engineering blog
+                
+
+
+
+                  Developer terms
+                
+
+
+
+
+
+
+                Business resources
+                
+
+
+
+
+
+
+
+
+
+                  Advertise
+                
+
+
+
+                  X for business
+                
+
+
+
+                  Resources and guides
+                
+
+
+
+                  X for marketers
+                
+
+
+
+                  Marketing insights
+                
+
+
+
+                  Brand inspiration
+                
+
+
+
+                  X Ads Academy
+                
+
+
+
+
+
+
+
+
+
+              © 2024 X Corp.
+            
+
+
+
+                Cookies
+              
+
+
+
+                Privacy
+              
+
+
+
+                Terms and conditions
+              
+
+
+
+
+    Lus Hmoob
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cov Nqe Lus txog Qhov Kev Pab Cuam
+
+
+
+
+
+
+              English
+            
+
+
+
+              Bahasa Indonesia
+            
+
+
+
+              Español
+            
+
+
+
+              Français
+            
+
+
+
+              Deutsch
+            
+
+
+
+              Italiano
+            
+
+
+
+              日本語 
+            
+
+
+
+              한국어 
+            
+
+
+
+              Português
+            
+
+
+
+              Русский
+            
+
+
+
+              Slovenčina
+            
+
+
+
+              Български
+            
+
+
+
+              Čeština
+            
+
+
+
+              Dansk
+            
+
+
+
+              Ελληνικά
+            
+
+
+
+              Eesti
+            
+
+
+
+              Suomi
+            
+
+
+
+              Gaeilge
+            
+
+
+
+              Hrvatski
+            
+
+
+
+              Magyar
+            
+
+
+
+              Lietuvių
+            
+
+
+
+              Latviešu
+            
+
+
+
+              Malti
+            
+
+
+
+              Nederlands
+            
+
+
+
+              Polski
+            
+
+
+
+              Română
+            
+
+
+
+              Slovenščina
+            
+
+
+
+              Svenska
+            
+
+
+
+              العربية
+            
+
+
+
+              فارسی
+            
+
+
+
+              Հայերեն
+            
+
+
+
+              ខ្មែរ
+            
+
+
+
+              Tagalog
+            
+
+
+
+              Tiếng Việt
+            
+
+
+
+              简体中文
+            
+
+
+
+              繁體中文
+            
+
+
+
+              Lus Hmoob
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Did someone say … cookies?
+
+  X and its partners use cookies to provide you with a better, safer and
+  faster service and to support our business. Some cookies are necessary to use
+  our services, improve our services, and make sure they work properly.
+  Show more about your choices.
+
+
+          
+
+
+
+
+
+                  Accept all cookies
+              
+
+
+
+                  Refuse non-essential cookies
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
